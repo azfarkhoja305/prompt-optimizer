@@ -1,0 +1,1027 @@
+input,target
+"
+Question: Who is the actor that plays ross poldark?
+Contexts:
+ 1. (excerpt from article: 'Aidan Turner') Aidan Turner (born 19 June 1983) is an Irish actor. He played the roles of Ross Poldark in the 20152019 BBC adaptation of ""The Poldark Novels"" by Winston Graham, Dante Gabriel Rossetti in ""Desperate Romantics"", Ruairi McGowan in ""The Clinic"", and John Mitchell in the supernatural drama series ""Being Human"". He played Kili in the ""The Hobbit"" film series.
+ 2. (excerpt from article: 'Robin Ellis') Anthony Robin Ellis (born 8 January 1942) is an English actor best known for his role as Captain Ross Poldark in 29 episodes of the BBC classic series ""Poldark"", adapted from a series of books by the late British author Winston Graham. He also appeared in ""Fawlty Towers"", ""Cluedo"", ""The Good Soldier"" (an adaptation of the Ford Madox Ford novel), ""Elizabeth R"" (playing Essex), ""The Moonstone"", ""Bel Ami"", ""Sense and Sensibility"" (which also featured Clive Francis), ""The Casebook of Sherlock Holmes"", ""She Loves Me"" (in which he sings) and ""Blue Remembered Hills"" (written by Dennis Potter). In 201517 and 2019 he appeared in ""Poldark"" as Reverend Halse.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who sings gimme shelter with the rolling stones?
+Contexts:
+ 1. (excerpt from article: 'Rock with You') It was re-released as a single on February 27, 2006, as part of the """" box set.
+ 2. (excerpt from article: 'Rhinestone Cowboy') Glen Campbell recorded a new version of the song in 2013 on his final studio album titled ""See You There"".
+Options:
+- Yes
+- No",No
+"
+Question: What is the space between two sets of doors called?
+Contexts:
+ 1. (excerpt from article: 'Vestibule (architecture)') A vestibule , also known as an arctic entry, is an anteroom (antechamber) or small foyer leading into a larger space, such as a lobby, entrance hall, passage, etc., for the purpose of waiting, withholding the larger space view, reducing heat loss, providing space for outwear, etc. The term applies to structures in both modern and historical architecture since ancient times. In modern architecture, vestibule typically refers to a small room next to the outer door and connecting it with the interior of the building. In ancient Roman architecture, vestibule () referred to a partially enclosed area between the interior of the house and the street.
+ 2. (excerpt from article: 'Mantrap (access control)') A mantrap, air lock, sally port or access control vestibule is a physical security access control system comprising a small space with two sets of interlocking doors, such that the first set of doors must close before the second set opens. Airlocks have a very similar design, allowing free ingress and egress while also restricting airflow.
+Options:
+- Yes
+- No",Yes
+"
+Question: Where is the rogers cup held in montreal?
+Contexts:
+ 1. (excerpt from article: 'Indianapolis 500') Six years later, in 2016, the race celebrated its 100th running with about 350,000 in attendance.
+ 2. (excerpt from article: 'The Wreck of the Edmund Fitzgerald') The Canadian art-rock group The Rheostatics recorded a version of the song for their 1991 album ""Melville"".
+Options:
+- Yes
+- No",No
+"
+Question: When did jane and chris win the olympics?
+Contexts:
+ 1. (excerpt from article: 'Rock with You') It was re-released as a single on February 27, 2006, as part of the """" box set.
+ 2. (excerpt from article: 'Jack Skellington') Chris Sarandon did both the speaking and singing voice for Jack in this game.
+Options:
+- Yes
+- No",No
+"
+Question: Alex real name from orange is the new black?
+Contexts:
+ 1. (excerpt from article: 'Jack Skellington') Chris Sarandon did both the speaking and singing voice for Jack in this game.
+ 2. (excerpt from article: 'Sandor Clegane') Sandor is portrayed by Scottish actor Rory McCann in the HBO television adaptation.
+Options:
+- Yes
+- No",No
+"
+Question: When did the stock market crash in 2008?
+Contexts:
+ 1. (excerpt from article: 'Stock market crash') On October 8, the Indonesian stock market halted trading, after a 10% drop in one day.
+ 2. (excerpt from article: 'Financial crisis of 200708') The US stock market peaked in October 2007, when the Dow Jones Industrial Average index exceeded 14,000 points. It then entered a pronounced decline, which accelerated markedly in October 2008. By March 2009, the Dow Jones average had reached a trough of around 6,600. Four years later,
+ 3. (excerpt from article: '20082011 Icelandic financial crisis') Trading in shares of six financial companies on the OMX Nordic Iceland Exchange was suspended on 6 October by order of the FME. On Thursday 9 October, all trading on the exchange was frozen for two days by the government ""in an attempt to prevent further panic spreading throughout the country's financial markets"". The decision was made to do so due to ""unusual market conditions"", with share prices having fallen 30% since the start of the month. The closure was extended through Monday 13 October due to continuing ""unusual market conditions"".
+Options:
+- Yes
+- No",Yes
+"
+Question: Who does the voice of pumbaa in the lion king?
+Contexts:
+ 1. (excerpt from article: 'Albus Dumbledore') Jude Law played the role of a younger Dumbledore in the second prequel film, """".
+ 2. (excerpt from article: 'Jack Skellington') Chris Sarandon did both the speaking and singing voice for Jack in this game.
+Options:
+- Yes
+- No",No
+"
+Question: Who was the first writer of fiction in indian english literature?
+Contexts:
+ 1. (excerpt from article: 'Old English literature') The poem ""Beowulf"", which often begins the traditional canon of English literature, is the most famous work of Old English literature. The ""Anglo-Saxon Chronicle"" has also proven significant for historical study, preserving a chronology of early English history.
+ 2. (excerpt from article: 'Medieval Spanish literature') By the end of the 10th century, the languages spoken in northern Spain had developed far from their Latin origins, and can assuredly be called Romance. Latin texts were no longer understood, as can be seen from the glosses used in manuscripts of Castile to explain Latin terms. 
+Options:
+- Yes
+- No",No
+"
+Question: Who got stuck in the belly of a whale?
+Contexts:
+ 1. (excerpt from article: 'Mind Game (film)') Inside the whale, they meet an old man who was formerly yakuza and has been trapped in the whale for more than 30 years. (He is later shown through flashbacks to be the father of the senior Yakuza shown earlier). He shows them to the elaborate suspended house he has constructed over the 'sea' inside the whale's belly. Nishi attempts to escape the whale but he fails and they resign themselves to life inside the whale. Yan practices dancing and art, Myon practices swimming (a dream she gave up when her breasts got bigger), Nishi practices writing and drawing humorous manga and he and Myon finally become sexually intimate.
+ 2. (excerpt from article: 'Pinocchio (1940 film)') Upon returning home, Pinocchio and Jiminy find the workshop vacant. They soon get a letter from the blue fairy as a dove, stating that Geppetto had ventured out to sea to save Pinocchio from Pleasure Island, but was swallowed by a terrible giant whale named Monstro, and is now living in his belly. Determined to rescue his father, Pinocchio jumps into the sea accompanied by Jiminy. Pinocchio is soon swallowed by Monstro as well, where he is reunited with Geppetto. Pinocchio devises a scheme to make Monstro sneeze, giving them a chance to escape. The scheme works, but the enraged whale chases them and smashes their raft. Pinocchio pulls Geppetto to safety in a cave before Monstro crashes into it. Geppetto, Figaro, Cleo, and Jiminy are washed up safely on a beach, but Pinocchio is presumably killed.
+ 3. (excerpt from article: 'Jonah') Jonah or Jonas, in the Hebrew Bible (Tanakh/Old Testament), is a prophet of the northern kingdom of Israel in about the 8th century BCE. He is the central figure of the Book of Jonah, in which he is called upon by God to travel to Nineveh and warn its residents of impending divine wrath. Instead, Jonah boards a ship to Tarshish. Caught in a storm, he orders the ship's crew to cast him overboard, whereupon he is swallowed by a giant fish. Three days later, after Jonah agrees to go to Nineveh, the fish vomits him out onto the shore. Jonah successfully convinces the entire city of Nineveh to repent, but waits outside the city in expectation of its destruction. God shields Jonah from the sun with a plant, but later sends a worm to cause it to wither. When Jonah complains of the bitter heat, God rebukes him.
+ 4. (excerpt from article: 'James Bartley') James Bartley (18701909) is the central figure in a late nineteenth-century story according to which he was swallowed whole by a sperm whale. He was found still living days later in the stomach of the whale, which was dead from constipation.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who won the shc all-ireland final in 2016?
+Contexts:
+ 1. (excerpt from article: '2016 All-Ireland Senior Hurling Championship Final') The 2016 All-Ireland Minor Hurling Final was played between Tipperary and Limerick as a curtain-raiser to the senior final.
+ 2. (excerpt from article: '2016 All-Ireland Senior Club Hurling Championship Final') The 2016 All-Ireland Senior Club Hurling Championship final was a hurling match which was played at Croke Park on 17 March 2016 to determine the winners of the 201516 All-Ireland Senior Club Hurling Championship, the 46th season of the All-Ireland Senior Club Hurling Championship, a tournament organised by the Gaelic Athletic Association for the champion clubs of the four provinces of Ireland. The final was contested by Ruairi Og, Cushendall of Antrim and Na Piarsaigh of Limerick, with Na Piarsaigh winning by 2-25 to 2-14.
+Options:
+- Yes
+- No",Yes
+"
+Question: When was the television introduced to the public?
+Contexts:
+ 1. (excerpt from article: 'History of television') WRGB claims to be the world's oldest television station, tracing its roots to an experimental station founded on January 13, 1928, broadcasting from the General Electric factory in Schenectady, NY, under the call letters W2XB. It was popularly known as ""WGY Television"" after its sister radio station. Later in 1928, General Electric started a second facility, this one in New York City, which had the call letters W2XBS and which today is known as WNBC. The two stations were experimental in nature and had no regular programming, as receivers were operated by engineers within the company. The image of a Felix the Cat doll rotating on a turntable was broadcast for 2 hours every day for several years as new technology was being tested by the engineers.
+ 2. (excerpt from article: 'History of television') The first official, paid advertising to appear on American commercial television occurred on the afternoon of July 1, 1941, over New York 
+Options:
+- Yes
+- No",Yes
+"
+Question: When does the season finale of the bachelorette air?
+Contexts:
+ 1. (excerpt from article: 'The Big Bang Theory (season 11)') The eleventh season of the American television sitcom ""The Big Bang Theory"" premiered on CBS on Monday, September 25, 2017. It returned to its regular Thursday time slot on November 2, 2017, after ""Thursday Night Football on CBS"" ended. The season concluded on May 10, 2018.
+ 2. (excerpt from article: 'Spirit Riding Free') Six episodes of the first season premiered on May 5, 2017. The series was renewed for a second season and it premiered on September 8, 2017. The series was renewed for a third season and it premiered on November 17, 2017. The series was renewed for a fourth season and it premiered on March 16, 2018. A fifth season of the show was released on Netflix on May 11, 2018. A sixth season of the show was released on Netflix on August 17, 2018. A seventh season premiered on November 9, 2018. An eighth season premiered on April 5, 2019. A ninth season is scheduled to be released in Fall 2020.
+ 3. (excerpt from article: 'Rock with You') It was re-released as a single on February 27, 2006, as part of the """" box set.
+Options:
+- Yes
+- No",No
+"
+Question: Which actor was the star of the movie the sixth sense?
+Contexts:
+ 1. (excerpt from article: 'Haley Joel Osment') Haley Joel Osment (born April 10, 1988) is an American actor. After a series of roles in television and film during the 1990s and 2000s, including a minor part in ""Forrest Gump"" playing the title character's son (also named Forrest Gump), Osment rose to fame for his performance as a young unwilling medium in M. Night Shyamalan's thriller film ""The Sixth Sense"", which earned him a nomination for the Academy Award for Best Supporting Actor. He subsequently appeared in leading roles in several high-profile Hollywood films, including Steven Spielberg's ""A.I. Artificial Intelligence"", Mimi Leder's ""Pay It Forward"", and ""Secondhand Lions"", alongside Michael Caine and Robert Duvall.
+ 2. (excerpt from article: 'Haley Joel Osment') Osment first achieved stardom in 1999, when he appeared in ""The Sixth Sense"", co-starring Bruce Willis. For his portrayal of Cole Sear, a psychic child, Osment won the Saturn Award for Best Performance by a Younger Actor. He was also nominated for the Academy Award for Best Supporting Actor, becoming the second-youngest performer ever to receive an Academy nomination for a supporting role, but lost the final Oscar vote to Michael Caine (with whom he would later work, appearing together in ""Secondhand Lions""). One of Osment's lines in ""The Sixth Sense"", ""I see dead people,"" became a popular catchphrase and is often repeated or parodied on television programs and in other media. The phrase is #44 on the American Film Institute's list of 100 Movie Quotes. He made three minor (voice-only) guest appearances on the animated TV series ""Family Guy"" in 2000 and 2001.
+Options:
+- Yes
+- No",Yes
+"
+Question: How many times does the bride and bridegroom walk around the fire during the hindu wedding ceremony?
+Contexts:
+ 1. (excerpt from article: 'Candle in the Wind') In 1997, John performed a rewritten version of the song as a tribute to Diana, Princess of Wales.
+ 2. (excerpt from article: 'International Regulations for Preventing Collisions at Sea') Vessels not under command or restricted in their ability to manoeuvre
+Options:
+- Yes
+- No",No
+"
+Question: Who hit the longest drive in golf history?
+Contexts:
+ 1. (excerpt from article: 'Drive (golf)') In February 1971, astronaut Alan Shepard became the first person to golf anywhere other than Earth. He smuggled a golf club and two golf balls on board Apollo 14 with the intent to golf on the Moon. He attempted two drives. He shanked the first attempt, but it is estimated his second went more than 2 miles. Holding the unofficial world record of the longest golf drive yards.
+ 2. (excerpt from article: 'Drive (golf)') Mike Austin holds the world record for the longest drive in professional play, driving 515 yards at the Winterwood Golf Course in Las Vegas, Nevada in 1974, blasting it 65 yards past the flag on the par-4 fifth. His golf swing, known as The Mike Austin Swing, is practiced and taught by current golf professionals. Other notable swings are Ben Hogan's swing, Jim Furyk's swing and Tiger Woods' swing.
+ 3. (excerpt from article: 'Drive (golf)') However, the official world record holder, Mike Dobbyn, whose longest drive is a world record 551 yards, is 6'8"" and a muscular 310 pounds, implying that raw power is also very important, particularly in the left shoulder and right pectoral (for a right-handed golfer) and in the twitch muscles on the left side.<ref name=""Research quarterly / American Alliance for Health, Physical Education, Recreation, and Dance""></ref> Several of the past RE/MAX winners such as Sweden's Viktor Johansson have also been at least 6'5"" and near 300 pounds and five-time winner Jason Zuback was an amateur powerlifter.
+Options:
+- Yes
+- No",Yes
+"
+Question: When was the song don't worry be happy made?
+Contexts:
+ 1. (excerpt from article: 'A Groovy Kind of Love') The song was recorded by Patti Labelle and The Bluebelles on 7 October 1965 and released in January 1966 on a 7"" single, together with ""Somewhere over the Rainbow"".
+ 2. (excerpt from article: 'A Groovy Kind of Love') The original rendition was recorded by American singing duo Diane & Annita and released as ""Groovey Kind of Love"" on the French e.p. ""One by One"" (disques Vogue INT. 18035) in 1965.
+Options:
+- Yes
+- No",No
+"
+Question: When was the first mobile phone released to the public?
+Contexts:
+ 1. (excerpt from article: 'Stock market crash') On October 8, the Indonesian stock market halted trading, after a 10% drop in one day.
+ 2. (excerpt from article: 'Top Gun') The film opened in the United States in 1,028 theaters on May 16, 1986.
+ 3. (excerpt from article: 'History of television') The first official, paid advertising to appear on American commercial television occurred on the afternoon of July 1, 1941, over New York 
+ 4. (excerpt from article: 'Incandescent light bulb') In 1859, Moses G. Farmer built an electric incandescent light bulb using a platinum filament. He later patented a light bulb which was purchased by Thomas Edison.
+Options:
+- Yes
+- No",No
+"
+Question: When is diving on in the commonwealth games?
+Contexts:
+ 1. (excerpt from article: 'Aquatics at the 2010 Commonwealth Games') The aquatics events at the 2010 Commonwealth Games took place at the SPM Swimming Pool Complex, Talkatora Gardens, Delhi from 413 October 2010. Events in the aquatic disciplines of swimming (long course), and diving were contested, with 46 sets of medals being competed for in total.
+ 2. (excerpt from article: 'Diving at the 2014 Commonwealth Games') The diving competitions at the 2014 Commonwealth Games in Glasgow, Scotland took place between 30 July and 2 August at the Royal Commonwealth Pool in Edinburgh. It was one of two aquatic sports at the Games, along with swimming.
+ 3. (excerpt from article: 'Diving at the 2018 Commonwealth Games') The diving competitions at the 2018 Commonwealth Games in the Gold Coast, Australia was held from 10 to 14 April at the 
+Options:
+- Yes
+- No",Yes
+"
+Question: Who is the princess in princess and the frog?
+Contexts:
+ 1. (excerpt from article: 'The Princess and the Frog') In response to these early criticisms, the film's title was changed in May 2007 from ""The Frog Princess"" to ""The Princess and the Frog"". The name ""Maddy"" was changed to ""Tiana"", and the character's occupation was altered from chambermaid to waitress. Talk show host Oprah Winfrey was hired as a technical consultant for the film, leading to her taking a voice-acting role in the film as Tiana's mother, Eudora.
+ 2. (excerpt from article: 'The Princess and the Frog') In February 2007, it was reported that ""Dreamgirls"" actresses Jennifer Hudson and Anika Noni Rose were top contenders for the voice of Tiana, and that Alicia Keys directly contacted Walt Disney Studios chairman Dick Cook about voicing the role. It was later reported that Tyra Banks was considered for the role as well. By April 2007, it was confirmed that Rose would be voicing Tiana. Three months later, it was reported that Keith David would be doing the voice of Doctor Facilier, the villain of the film.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who wrote the song crying in the chapel?
+Contexts:
+ 1. (excerpt from article: 'Candle in the Wind') In 1997, John performed a rewritten version of the song as a tribute to Diana, Princess of Wales.
+ 2. (excerpt from article: 'Stuck in the Middle with You') Leif Garrett released a version of the song on his 1980 album, ""Can't Explain"".
+Options:
+- Yes
+- No",No
+"
+Question: Whose diary describes the great plague of london?
+Contexts:
+ 1. (excerpt from article: 'Black Death in England') The Black Death was a bubonic plague pandemic, which reached England in June 1348. It was the first and most severe manifestation of the Second Pandemic, caused by ""Yersinia pestis"" bacteria. The term ""Black Death"" was not used until the late 17th century.
+ 2. (excerpt from article: '2009 New York City mayoral election') Tuesday, November 3, 2009
+ 3. (excerpt from article: 'Great Plague of London') The Great Plague, lasting from 1665 to 1666, was the last major epidemic of the bubonic plague to occur in England. It happened within the centuries-long time period of the Second Pandemic, an extended period of intermittent bubonic plague epidemics which originated in China in 1331, the first year of the Black Death, an outbreak which included other forms such as pneumonic plague, and lasted until 1750.
+Options:
+- Yes
+- No",No
+"
+Question: When did the concept of sustainable development come into existence?
+Contexts:
+ 1. (excerpt from article: 'Sustainable development') Following the Club of Rome report, an MIT research group prepared ten days of hearings on ""Growth and Its Implication for the Future"" (Roundtable Press, 1973) for the US Congress, the first hearings ever held on sustainable development. William Flynn Martin, David Dodson Gray, and Elizabeth Gray prepared the hearings under the Chairmanship of Congressman John Dingell.
+ 2. (excerpt from article: 'Sustainable development') In 1980 the International Union for the Conservation of Nature published a world conservation strategy that included one of the first references to sustainable development as a global priority and introduced the term ""sustainable development"". Two years later, the United Nations World Charter for Nature raised five principles of conservation by which human conduct affecting nature is to be guided and judged. In 1987 the United Nations World Commission on Environment and Development released the report ""Our Common Future"", commonly called the Brundtland Report. The report included what is now one of the most widely recognised definitions of sustainable development.
+ 3. (excerpt from article: 'Sustainable development') While the modern concept of sustainable development is derived mostly from the 1987 Brundtland Report, it is also rooted in earlier ideas about sustainable forest management and twentieth-century environmental concerns. As the concept developed, it has shifted its focus more towards the economic development, social development and environmental protection for future generations. It has been suggested that ""the term 'sustainability' should be viewed as humanity's target goal of human-ecosystem equilibrium, while 'sustainable development' refers to the holistic approach and temporal processes that lead us to the end point of sustainability"". Modern economies are endeavoring to reconcile ambitious economic development and obligations of preserving natural resources and ecosystems, as the two are usually seen as of conflicting nature. Instead of holding climate change commitments and other sustainability measures as a remedy to economic development, turning and leveraging them into market opportunities will do greater good. The economic development brought by such organized principles and practices in an economy is called Managed Sustainable Development (MSD).
+Options:
+- Yes
+- No",Yes
+"
+Question: When did the 12 valve cummins come out?
+Contexts:
+ 1. (excerpt from article: 'Cummins B Series engine') Every Cummins powered Dodge Pickup (since initial production in 1989) has come equipped with a turbocharger. It uses a gear-drive camshaft for extra reliability. Also specified is a deep-skirt engine block and extra-strong connecting rods. A Holset turbocharger is used. The original B Series was updated with 24 valves and an electronic engine management system to become the ISB in 1998.
+ 2. (excerpt from article: 'Cummins B Series engine') The 6BT, also known as the Cummins ""12-valve"" was the first member of the ""B"" engine family to be used in a light truck vehicle. The 6BT used Bosch fuel systems, injector, and VE rotary pump and P7100 inline injection pumps. Some early 6BTs were supplied with CAV rotary pumps instead, before the Bosch system became the sole standard. This engine started life in 1984 designed as an agricultural engine, for use in Case agricultural equipment.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who opened the gate in the prison walking dead?
+Contexts:
+ 1. (excerpt from article: 'Candle in the Wind') In 1997, John performed a rewritten version of the song as a tribute to Diana, Princess of Wales.
+ 2. (excerpt from article: 'A Change Is Gonna Come') In 2017, Greta Van Fleet released a cover of the song on their double EP ""From the Fires"".
+ 3. (excerpt from article: 'Bill Knapp's') By the end of 2002, the chain's last restaurant had closed.
+Options:
+- Yes
+- No",No
+"
+Question: Where is alpha amylase found in the body?
+Contexts:
+ 1. (excerpt from article: 'Superoxide dismutase') In higher plants, SOD isozymes have been localized in different cell compartments. Mn-SOD is present in mitochondria and peroxisomes. Fe-SOD has been found mainly in chloroplasts but has also been detected in peroxisomes, and CuZn-SOD has been localized in cytosol, chloroplasts, peroxisomes, and apoplast.
+ 2. (excerpt from article: 'Hamstring') Those muscle which fulfill all of the four criteria are called true hamstrings.
+Options:
+- Yes
+- No",No
+"
+Question: What is formed on top of continental crust?
+Contexts:
+ 1. (excerpt from article: 'Continental crust') Because the surface of continental crust mainly lies above sea level, its existence allowed land life to evolve from marine life. Its existence also provides broad expanses of shallow water known as epeiric seas and continental shelves where complex metazoan life could become established during early Paleozoic time, in what is now called the Cambrian explosion.
+ 2. (excerpt from article: 'Pedosphere') The pedosphere lies below the vegetative cover of the biosphere and above the hydrosphere and lithosphere. The soil forming process (pedogenesis) can begin without the aid of biology but is significantly quickened in the presence of biologic reactions. Soil formation begins with the chemical and/or physical breakdown of minerals to form the initial material that overlies the bedrock substrate. Biology quickens this by secreting acidic compounds (dominantly fulvic acids) that help break rock apart. Particular biologic pioneers are lichen, mosses and seed bearing plants, but many other inorganic reactions take place that diversify the chemical makeup of the early soil layer. Once weathering and decomposition products accumulate, a coherent soil body allows the migration of fluids both vertically and laterally through the soil profile, causing ion exchange between solid, fluid and gaseous phases. As time progresses, the bulk geochemistry of the soil layer will deviate away from the initial composition of the bedrock and will evolve to a chemistry that reflects the type of reactions that take place in the soil.
+Options:
+- Yes
+- No",Yes
+"
+Question: Where did the 60's scoop take place?
+Contexts:
+ 1. (excerpt from article: 'Sixties Scoop') Each province had different foster programs and adoption policies. Saskatchewan had the only targeted Indigenous transracial adoption program, called Adopt Indian Metis (AIM) Program. While most ""scooped"" children were placed in foster care or for adoption in Canada, some were placed in the United States or Western Europe.
+ 2. (excerpt from article: 'Sixties Scoop') In Alberta, 40 to 50 percent of children in care were Aboriginal; 60 to 70 percent in Saskatchewan; and 50 to 60 percent in Manitoba. According to the Aboriginal Justice Implementation Commission, ""Johnston estimated that, across Canada, Aboriginal children were 4.5 times more likely than non-Aboriginal children to be in the care of child welfare authorities."" Similar findings have been reported by other experts.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who sang the song a change is going to come?
+Contexts:
+ 1. (excerpt from article: 'Candle in the Wind') In 1997, John performed a rewritten version of the song as a tribute to Diana, Princess of Wales.
+ 2. (excerpt from article: 'Rock with You') It was re-released as a single on February 27, 2006, as part of the """" box set.
+ 3. (excerpt from article: 'Stuck in the Middle with You') Leif Garrett released a version of the song on his 1980 album, ""Can't Explain"".
+ 4. (excerpt from article: 'Gimme Shelter') The female contributor to the song live is Lisa Fischer, the only woman to appear in all their tours since 1989.
+ 5. (excerpt from article: 'The Wreck of the Edmund Fitzgerald') The Canadian art-rock group The Rheostatics recorded a version of the song for their 1991 album ""Melville"".
+ 6. (excerpt from article: 'The Wreck of the Edmund Fitzgerald') In 2005, American metal band Jag Panzer released a cover of this song on a single.
+Options:
+- Yes
+- No",No
+"
+Question: Who wrote the theory and practice of oligarchical collectivism?
+Contexts:
+ 1. (excerpt from article: 'The Theory and Practice of Oligarchical Collectivism') O'Brien rejects as nonsense Winston Smith's perspective that Big Brother and the Party can be overthrown, because he is a member of the Inner Party, and not a revolutionary of the Brotherhood. At the Miniluv, O'Brien tortures Winston to cure him of his political insanity: The belief that there exists an objective reality that is external to the reality of the Party. In their torture chamber conversations, he tells Winston that The Book was written by a committee that included himself. When Winston asks O'Brien if The Book is true, he replies: ""As description, yes. The program it sets forth is nonsense.""
+ 2. (excerpt from article: 'The Theory and Practice of Oligarchical Collectivism') The Theory and Practice of Oligarchical Collectivism is a fictional book in George Orwell's dystopian novel ""Nineteen Eighty-Four"" (1949). The book was supposedly written by Emmanuel Goldstein, the principal enemy of the state of Oceania's ruling party. The Party portrays Goldstein as a member of the Inner Party who continually conspired to depose Big Brother and overthrow the government. In the novel, the book is read by the protagonist, Winston Smith who recalls that ""There were ... whispered stories of a terrible book, a compendium of all the heresies, of which Goldstein was the author, and which circulated clandestinely here and there. It was a book without a title. People referred to it, if at all, simply as The Book.""
+Options:
+- Yes
+- No",Yes
+"
+Question: Who was the leader of the revolt of 1857 in bihar?
+Contexts:
+ 1. (excerpt from article: 'India at the Cricket World Cup') The Indian Squad that won the 2011 World Cup comprised
+ 2. (excerpt from article: 'Partition of India') The Hindu Mahasabha leader Lala Lajpat Rai was one of the first persons to demand to bifurcate India by Muslim and non-Muslim population. He wrote in ""The Tribune"" of 14 December 1924:
+Options:
+- Yes
+- No",No
+"
+Question: Who played the role of shakuni in mahabharat 2013?
+Contexts:
+ 1. (excerpt from article: 'Jack Skellington') Chris Sarandon did both the speaking and singing voice for Jack in this game.
+ 2. (excerpt from article: 'India at the Cricket World Cup') The Indian Squad that won the 2011 World Cup comprised
+Options:
+- Yes
+- No",No
+"
+Question: Who is the actor who plays aidan in eastenders?
+Contexts:
+ 1. (excerpt from article: 'List of EastEnders characters (2017)') Aidan Joseph Patrick ""JP"" Maguire, played by Patrick Bergin made his first appearance on 27 November 2017. He is part of a robbery storyline. Aidan departed the series on 9 March 2018 at the conclusion of his storyline.
+ 2. (excerpt from article: 'List of EastEnders characters (2018)') Ciara Maguire, played by Denise McCormack, first appears in the episode broadcast on 2 January 2018. She is the former wife of Aidan Maguire (Patrick Bergin).
+Options:
+- Yes
+- No",Yes
+"
+Question: Who wrote is anybody goin to san antone?
+Contexts:
+ 1. (excerpt from article: 'A Change Is Gonna Come') In 2017, Greta Van Fleet released a cover of the song on their double EP ""From the Fires"".
+ 2. (excerpt from article: 'Tequila Makes Her Clothes Fall Off') One of the song's co-writers, John Wiggins performed with his sister Audrey in the mid-1990s as the country duo John & Audrey Wiggins.
+Options:
+- Yes
+- No",No
+"
+Question: When did they start production on the post?
+Contexts:
+ 1. (excerpt from article: 'The Post (film)') In October 2016, Amy Pascal won a bid for the rights to the screenplay ""The Post"", written by Liz Hannah. In February 2017, Steven Spielberg had halted pre-production on ""The Kidnapping of Edgardo Mortara"" after a casting setback, and consequently opened his schedule to other potential films to direct. The following month, it was announced that Spielberg was in negotiations to direct and produce the film, with Meryl Streep and Tom Hanks in talks for the roles of Katharine Graham and Ben Bradlee, respectively. ""The Post"" is the first time that Spielberg, Streep, and Hanks had all worked together on a film.
+ 2. (excerpt from article: 'The Post (film)') The film began principal photography in New York on May 30, 2017. On June 6, 2017, it was announced that the project, retitled ""The Papers"", would also star Alison Brie, Carrie Coon, David Cross, Bruce Greenwood, Tracy Letts, Bob Odenkirk, Sarah Paulson, Jesse Plemons, Matthew Rhys, Michael Stuhlbarg, Bradley Whitford, and Zach Woods. On August 25, 2017, the film's title reverted to ""The Post"". Spielberg finished the final cut of the film on November 6, 2017, with the final sound mix also completed along with the musical score a week later, on November 13.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who has made the most money on jeopardy?
+Contexts:
+ 1. (excerpt from article: 'List of Jeopardy! contestants') Emma Boettcher, a 27-year-old University of Chicago librarian, supplanted James Holzhauer as ""Jeopardy!"" champion on June 3, 2019, preventing him from surpassing the $2.52 million Ken Jennings earned during his 2004 winning streak. Boettcher was the highest-winning female contestant in any single game of ""Jeopardy!"" with $46,801 surpassing the $46,600 Maria Wenglinsky has earned on November 1, 2005. She won three games before losing on the fourth day, winning a total of $98,002. Boettcher's performance was unusual in that most contestants who upset a long-running champion promptly finish in last place in their next episode; only one, Mark Japinga (who ended Ben Ingram's eight-win streak and went on to a four-game win streak of his own), had greater success than Boettcher.
+ 2. (excerpt from article: 'List of Jeopardy! contestants') James Holzhauer (born July 1984), a professional sports gambler from Las Vegas, Nevada and a native of Naperville, Illinois, set the single-game ""Jeopardy!"" winnings record of $110,914 during his fourth appearance on the show in April 2019, beating the previous record of $77,000 previously held by Roger Craig. He eclipsed his own record on April 17, with a final single-game total of $131,127. He currently holds the top ten single-game winnings records. At $25,000, he also exceeded Philip Tiu's prior record of $19,000 for largest successful Daily Double wager. At $60,013, he exceeded his own prior record of $38,314 for largest successful Final Jeopardy wager of all time. Before James, the record for largest successful Final Jeopardy wager was $34,000 held by Austin Rogers. His $298,687 total winnings across his first five days also surpassed the five-day record set by Frank Spangenberg. He is now the second-highest winning contestant in regular game (non-tournament) winnings, surpassed only by Ken Jennings. In addition to an aggressive wagering strategy, Holzhauer also goes for the highest values on the board first to amass his totals quickly, make it more difficult for his opponents to catch up, and increase the money he has available to wager when he hits a Daily Double. He finally lost on June 3, 2019 to Emma Boettcher, making his 32 wins the second-longest day streak in show history, and his total winnings of $2,462,216 the second most money won in regular-season play. He also has won the third-most money overall in the show as of June 6, 2019, and, counting winnings on all game shows, is third overall after winning the Tournament of Champions in a rematch with Emma. He then went on to participate in the ""Jeopardy! The Greatest of All Time"" primetime event , winning one of four matches and finishing second overall behind Ken Jennings. 
+Options:
+- Yes
+- No",Yes
+"
+Question: Who does hannah montana pick jake or jessie?
+Contexts:
+ 1. (excerpt from article: 'Tequila Makes Her Clothes Fall Off') One of the song's co-writers, John Wiggins performed with his sister Audrey in the mid-1990s as the country duo John & Audrey Wiggins.
+ 2. (excerpt from article: 'Stuck in the Middle with You') Juice Newton recorded a version for her 1985 album, ""Old Flame.""
+Options:
+- Yes
+- No",No
+"
+Question: When was ain't i a woman written?
+Contexts:
+ 1. (excerpt from article: 'Candle in the Wind') In 1997, John performed a rewritten version of the song as a tribute to Diana, Princess of Wales.
+ 2. (excerpt from article: 'Ain't No Woman (Like the One I've Got)') The song was originally recorded by the singing trio of Hamilton, Joe Frank & Reynolds and released on their 1972 album, ""Hallway Symphony"".
+ 3. (excerpt from article: 'He Don't Love You (Like I Love You)') Under its original title ""He Will Break Your Heart,"" the song was also a top-ten hit for one of its songwriters, Jerry Butler, in 1960. 
+ 4. (excerpt from article: 'Turn! Turn! Turn!') The lyrics are taken almost verbatim from the book of Ecclesiastes, as found in the King James Version (1611) of the Bible, () though the sequence of the words was rearranged for the song. Ecclesiastes is traditionally ascribed to King Solomon who would have written it in the 10th century BC, but believed by a significant group of biblical scholars to date much later, up to the third century BC.
+Options:
+- Yes
+- No",No
+"
+Question: U.s. army general who won several victories in the mexican-american war?
+Contexts:
+ 1. (excerpt from article: 'Zachary Taylor') Zachary Taylor (November 24, 1784  July 9, 1850) was the 12th president of the United States, serving from March 1849 until his death in July 1850. Taylor previously was a career officer in the United States Army, rose to the rank of major general and became a national hero as a result of his victories in the MexicanAmerican War. As a result, he won election to the White House despite his vague political beliefs. His top priority as president was preserving the Union, but he died sixteen months into his term, before making any progress on the status of slavery, which had been inflaming tensions in Congress.
+ 2. (excerpt from article: 'Winfield Scott') Winfield Scott (June 13, 1786  May 29, 1866) was an American military commander and political candidate. He served as a general in the United States Army from 1814 to 1861, taking part in the War of 1812, the MexicanAmerican War, the early stages of the American Civil War, and various conflicts with Native Americans. Scott was the Whig Party's presidential nominee in the 1852 presidential election, but was defeated by Democrat Franklin Pierce. He was known as Old Fuss and Feathers for his insistence on proper military etiquette, and as the Grand Old Man of the Army for his many years of service.
+Options:
+- Yes
+- No",Yes
+"
+Question: When was the cathedral of santiago de compostela built?
+Contexts:
+ 1. (excerpt from article: 'Santiago de Compostela Cathedral') The Portico da Gloria (""Portico of the Glory"" in Galician) of the Cathedral of Santiago de Compostela is a Romanesque portico by Master Mateo and his workshop commissioned by King Ferdinand II of Leon. To commemorate its completion in 1188, the date was carved on a stone and set in the cathedral, and the lintels were placed on the portico. Finalising the complete three-piece set took until 1211, when the temple was consecrated in the presence of King Alfonso IX of Leon.
+ 2. (excerpt from article: 'Santiago de Compostela Cathedral') Construction of the present cathedral began in 1075 under the reign of Alfonso VI of Castile (10401109) and the patronage of bishop Diego Pelaez. It was built according to the same plan as the monastic brick church of Saint Sernin in Toulouse, probably the greatest Romanesque edifice in France. It was built mostly in granite. Construction was halted several times and, according to the ""Liber Sancti Iacobi"", the last stone was laid in 1122. But by then, the construction of the cathedral was certainly not finished. The cathedral was consecrated in 1211 in the presence of king Alfonso IX of Leon.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who's directing the new blade runner movie?
+Contexts:
+ 1. (excerpt from article: 'Blade Runner 2049') Blade Runner 2049 is a 2017 American neo-noir science fiction film directed by Denis Villeneuve and written by Hampton Fancher and Michael Green. A sequel to the 1982 film ""Blade Runner"", the film stars Ryan Gosling and Harrison Ford, with Ana de Armas, Sylvia Hoeks, Robin Wright, Mackenzie Davis, Carla Juri, Lennie James, Dave Bautista, and Jared Leto in supporting roles. Ford and Edward James Olmos reprise their roles from the original. Set thirty years after the first film, Gosling plays K, a Nexus-9 replicant ""blade runner"" who uncovers a secret that threatens to destabilize society and the course of civilization. Original director Ridley Scott served as an executive producer on the film.
+ 2. (excerpt from article: 'Blade Runner Black Out 2022') Blade Runner Black Out 2022 is a tech-noir cyberpunk anime short film directed by Shinichiro Watanabe. The short is one of three short films, alongside """" and """", that serve as prequels to the live-action film ""Blade Runner 2049"". It debuted on 27 September 2017 on Crunchyroll.
+Options:
+- Yes
+- No",Yes
+"
+Question: Halloween 6 who is the man in black?
+Contexts:
+ 1. (excerpt from article: 'Halloween: The Curse of Michael Myers') The cult arrives at the boarding house, where it is revealed that Mrs. Blankenship is a cult member and the Man in Black is Dr. Wynn. The cult drugs Loomis and Tommy and take Kara, Danny, and Steven to Smith's Grove. Kara is locked in a maximum security ward while the boys are kept in an operating room. Loomis confronts Wynn, who reveals that the staff at Smith's Grove have been working with the Thorn cult to study the power of Thorn and learn how to control it. Wynn wants Loomis to join in on his conspiracy, as he was the first one to recognize the evil inside Michael. Steven is implied to be the successful result of experiments to clone Michael's pure evil, and the cult plans to use Danny and Kara to duplicate the process.
+ 2. (excerpt from article: 'Halloween: The Curse of Michael Myers') For the role of Dr. Terence Wynn, Mitchell Ryan was cast, based on his performance in ""Lethal Weapon"" (1987); Farrands originally urged the producers to cast Christopher Lee, having had the veteran horror actor in mind when writing the character. This is a reference on Carpenter's initial choice for role of Dr. Loomis during film making of Halloween from 1978 where he was offered that role, but declined due to low pay, only later to regret in later years. Denise Richards also auditioned for the part of Beth, but the studio passed on her, giving the role to Mariah O'Brien. Stunt performer George P. Wilbur, who portrayed Michael in the , reprised his role as Michael Myers. However, once reshoots took place, Wilbur was replaced by A. Michael Lerner as director Joe Chapelle found Wilbur to be ""too bulky.""
+Options:
+- Yes
+- No",Yes
+"
+Question: When did ice age collision course come out?
+Contexts:
+ 1. (excerpt from article: 'Ice Age: Collision Course') The film premiered at the Sydney Film Festival on June 19, 2016, and was released in the United States on July 22. Despite earning $408 million on a $105 million budget, the film underperformed at the box office, and received negative reviews from critics aimed at the screenplay, plot, humor, inconsistent tone, lack of originality, and character development while praising its animation and John Debney's musical score; it is the first Blue Sky film to receive generally negative critic reviews and the worst-reviewed film in the ""Ice Age"" franchise to date.
+ 2. (excerpt from article: 'Ice Age: Collision Course') In the United States and Canada ""Ice Age: Collision Course"" opened on July 22, 2016, alongside ""Star Trek Beyond"" and ""Lights Out"", and was projected to gross $3035 million from 3,997 theaters in its opening weekend. It made $850,000 from Thursday night previews and $7.8 million on its first day. It had a $21 million debut in its opening weekend, finishing fourth at the box office. The film finished its theatrical run with a domestic gross of $64 million. Produced on a budget of $105 million, the film became the lowest-grossing film of the franchise as well as Blue Sky's lowest-grossing film.
+Options:
+- Yes
+- No",Yes
+"
+Question: When did ice age collision course come out?
+Contexts:
+ 1. (excerpt from article: 'Rock with You') It was re-released as a single on February 27, 2006, as part of the """" box set.
+ 2. (excerpt from article: 'Stuck in the Middle with You') Leif Garrett released a version of the song on his 1980 album, ""Can't Explain"".
+Options:
+- Yes
+- No",No
+"
+Question: Who was patch married to on days of our lives?
+Contexts:
+ 1. (excerpt from article: 'Steve Johnson and Kayla Brady') Steve ""Patch"" Earl Johnson and Dr. Kayla Caroline Brady are a supercouple on the American soap opera ""Days of Our Lives"". Steve is portrayed by Stephen Nichols and Kayla is portrayed by Mary Beth Evans. On the Internet message boards[5] the couple is often referred to by the portmanteau ""Stayla"" (for Steve and Kayla). The couple was initially popular from 1986 through 1990 until the ""death"" of Steve. Both characters have recently returned: after Steve being presumed dead for 16 years, Steve returned to the show on June 9, 2006; Kayla returned on June 12, 2006. Steve and Kayla were dropped off canvas in February 2009. Kayla returned in December 2011. In August 2015, Steve returned to Salem, and the couple reunited soon after
+ 2. (excerpt from article: 'Steve Johnson (Days of Our Lives)') Returning to focus his attention on Kayla, Steve found that she was expecting a child. Their happiness was complicated by the arrival of Marina Toscano, who claimed to be Steve's wife. While he had indeed married her, he had thought her long since dead, confessing to Kayla that he believed that he'd killed her during a seaboard fight. Marina made it clear that she didn't want Steve back, she just needed his help getting a key that they'd thrown into the sea. Hoping for a quick divorce, he agreed to help her and went to Italy to get the key. While there, he had to fight off Kiriakis' henchmen when they tried to get the key from him. The fight left him with a broken glass eye. Meanwhile, in Salem, Kayla had had enough of Marina putting her husband and family in danger and the pair got in a fight. Later, Marina turned up dead and Kayla became a key suspect. To make things worse, Kiriakis kidnapped her in a bid to get the key. She was released when Isabella gave the key to Victor. The couple then rushed to get married before she gave birth and she was arrested for Marina's murder during the wedding. Kayla stood trial, thanks largely to doctored evidence that Kiriakis had sent to John Black. She was convicted and gave Steve their newborn daughter, Stephanie, to raise. He hired a nanny, Kelly Parker, who, unfortunately, turned out to be quite crazy and kidnapped the child when Kayla escaped from prison. Steve and Kayla went in pursuit of her, tracking her to Australia where they were lucky enough to find Bo and Hope who helped them track her down. After getting Stephanie back, they had the additional good news that Kayla had been cleared of the murder conviction and they all returned to Salem.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who plays the new mayor on blue bloods?
+Contexts:
+ 1. (excerpt from article: 'Jack Skellington') Chris Sarandon did both the speaking and singing voice for Jack in this game.
+ 2. (excerpt from article: '2009 New York City mayoral election') Tuesday, November 3, 2009
+ 3. (excerpt from article: 'Sandor Clegane') Sandor is portrayed by Scottish actor Rory McCann in the HBO television adaptation.
+Options:
+- Yes
+- No",No
+"
+Question: What is a set of kettledrums in an orchestra called?
+Contexts:
+ 1. (excerpt from article: 'Ostinato') Ostinato patterns have been present in European music from the Middle Ages onwards. In the famous English canon ""Sumer Is Icumen In"", the main vocal lines are underpinned by an ostinato pattern, known as a ""pes"":]
+ 2. (excerpt from article: 'Hamstring') Those muscle which fulfill all of the four criteria are called true hamstrings.
+Options:
+- Yes
+- No",No
+"
+Question: When did the old age pension start in australia?
+Contexts:
+ 1. (excerpt from article: 'Social security in Australia') In 1900, the states of New South Wales and Victoria enacted legislation introducing non-contributory pensions for those aged 65 and over. Queensland legislated a similar system in 1907 before the Australian labor Commonwealth government led by Andrew Fisher introduced a national aged pension under the Invalid and Old-Aged Pensions Act 1908. A national invalid disability pension was started in 1910, and a national maternity allowance was introduced in 1912.
+ 2. (excerpt from article: 'Old-Age Pensions Act 1908') The Act provided for a non-contributory old age pension for people over the age of seventy, with the cost being borne by taxpayers generally. It was enacted in 1908 and was to pay a weekly pension of 5s a week (7s 6d for married couples) with effect from 1 January 1909. The level of benefit was deliberately set low to encourage workers to go on making their own provision for retirement. In order to be eligible, claimants had to have an income than 31. 10s. a year, and also had to pass a 'character test'; only those with a 'good character' could receive the pensions. Claimants also had to have been resident in Great Britain and Ireland for at least twenty years to be eligible, and those who had not worked habitually were also not eligible.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who sings the song it never rains in southern california?
+Contexts:
+ 1. (excerpt from article: 'A Change Is Gonna Come') In 2017, Greta Van Fleet released a cover of the song on their double EP ""From the Fires"".
+ 2. (excerpt from article: 'The Wreck of the Edmund Fitzgerald') In 2005, American metal band Jag Panzer released a cover of this song on a single.
+Options:
+- Yes
+- No",No
+"
+Question: What is the triangular shaped area at each end of the greek temple called?
+Contexts:
+ 1. (excerpt from article: 'Ancient Greek architecture') The upper band of the entablature is called the ""cornice"", which is generally ornately decorated on its lower edge. The cornice retains the shape of the beams that would once have supported the wooden roof at each end of the building. At the front and rear of each temple, the entablature supports a triangular structure called the ""pediment"". The triangular space framed by the cornices is the location of the most significant sculptural decoration on the exterior of the building.
+ 2. (excerpt from article: 'Tympanum (architecture)') In architecture, a tympanum (plural, tympana; from Latin and Greek words meaning ""drum"") is the semi-circular or triangular decorative wall surface over an entrance, door or window, which is bounded by a lintel and an arch. It often contains sculpture or other imagery or ornaments. Most architectural styles include this element.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who was the first pharaoh to be buried in a pyramid?
+Contexts:
+ 1. (excerpt from article: 'Egyptian pyramids') Piye, the king of Kush who became the first ruler of the Twenty-fifth Dynasty of Egypt, built a pyramid at El-Kurru. He was the first Egyptian pharaoh to be buried in a pyramid in centuries.
+ 2. (excerpt from article: 'Egyptian pyramids') Major pyramids located here include the Pyramid of Djoser  generally identified as the world's oldest substantial monumental structure to be built of dressed stone  the Pyramid of Userkaf, the Pyramid of Teti and the Pyramid of Merikare, dating to the First Intermediate Period of Egypt. Also at Saqqara is the Pyramid of Unas, which retains a pyramid causeway that is one of the best-preserved in Egypt. Together with the pyramid of Userkaf, this pyramid was the subject of one of the earliest known restoration attempts, conducted by Khaemweset, a son of Ramesses II. Saqqara is also the location of the incomplete step pyramid of Djoser's successor Sekhemkhet, known as the Buried Pyramid. Archaeologists believe that had this pyramid been completed, it would have been larger than Djoser's.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who sang make the world go away first?
+Contexts:
+ 1. (excerpt from article: 'Make the World Go Away') ""Make the World Go Away"" was a greater success for Eddy Arnold during 1965, scoring No. 1 on the country music charts and also scoring #1 on the adult contemporary charts. It reached No.6 on the popular music chart. ""Make the World Go Away"" was part of the so-called Nashville Sound, an early mixture of popular with country music, and it became one of the most popular recordings of 1960s country music. It is generally considered to be Arnold's best-known song. The musicians on the Arnold session were Grady Martin, Velma Smith (guitars), Henry Strzelecki (bass), Jerry Carrigan (drums), Floyd Cramer (piano), Bill Walker (vibes), Harvey Wolfe (cello), Pamela Goldsmith, Ruby Ann Story (violas), Brenton Banks, Solie Fott, Lillian Hunt, Martin Kathan, Shelly Kurland (violins), and the Anita Kerr Singers (vocal chorus).
+ 2. (excerpt from article: 'Make the World Go Away') During 1963, Timi Yuro released a soul music version of the song from her album of the same name. A moderate success, the single reached No.24 on the Billboard U.S. Top 40 popular music chart and as much as No. 11 on the Canadian charts.
+ 3. (excerpt from article: 'Make the World Go Away') ""Make the World Go Away'"" is a country pop song composed by Hank Cochran. It has become a Top 40 popular success three times: for Timi Yuro (during 1963), for Eddy Arnold (1965), and for the brother-sister duo Donny and Marie Osmond (1975). The original version of the song was recorded by Ray Price during 1963. It has remained a country crooner standard ever since.
+Options:
+- Yes
+- No",Yes
+"
+Question: When was the last time fulham played at wembley?
+Contexts:
+ 1. (excerpt from article: '201516 FA Cup') The draw for the semi-finals was held on 14 March 2016. The semi-finals were played on 23 and 24 April 2016.
+ 2. (excerpt from article: '201617 FA Cup') The four winners of the quarter-finals progressed to the semi-finals. The semi-final draw took place at Stamford Bridge on 13 March following the quarter-final tie between Chelsea and Manchester United. The semi-finals were played at Wembley Stadium on 22 and 23 April 2017.
+Options:
+- Yes
+- No",No
+"
+Question: Just call me angel in the morning original singer?
+Contexts:
+ 1. (excerpt from article: 'Angel of the Morning') The song became a hit in 1968 through a recording by Merrilee Rush, made that January at American Sound Studios in Memphis, with Chips Moman and Tommy Cogbill producing. Rush had come to Memphis through the group she fronted, the Turnabouts, being the opening act for a Paul Revere and the Raiders tour. While in Memphis, the Raiders recorded the album ""Going to Memphis"" at American Sound Studios, an association which led to Rush's discovery by Tommy Cogbill, who had been hoping to find the right voice for ""Angel of the Morning""he had kept a tape of the demo of that song constantly in his pocket for several months.
+ 2. (excerpt from article: 'Angel of the Morning') Taylor produced a recording of the song with Evie Sands, but the financial straits of Cameo-Parkway Records, which had Sands on their roster, led to a highly limited single release and no promotion. Other early recordings of the song were made in 1967 by Danny Michaels for Lee Hazlewood's LHI label and by UK vocalist Billie Davis.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who played james west in the wild wild west?
+Contexts:
+ 1. (excerpt from article: 'The Wild Wild West') Robert Conrad starred as James West. Before ""The Wild Wild West"", Conrad played private eye Tom Lopaka in ABC's ""Hawaiian Eye"" for four seasons, 1959-63. Conrad claimed to be the 17th actor to test for the role of James West. (Rory Calhoun was initially announced for the part. Others tested included Robert Horton, Ray Danton and James ""Skip"" Ward.) Conrad performed nearly all of his own stunts in the series. ""For the first few episodes we tried stuntmen,"" Conrad explained, ""but the setup time slowed production down, so I volunteered. Things started moving quicker when I took the jumps and the spills. We started meeting the budget."" Early on he was doubled by Louie Elias or Chuck O'Brien.
+ 2. (excerpt from article: 'The Wild Wild West') Warner Bros. optioned the film rights to ""The Wild Wild West"" in 1992, and hired Richard Donner to direct from a screenplay by Shane Black that would have starred Mel Gibson as James West (Donner coincidentally directed three episodes of the original series). Finally in 1999, a theatrical feature-length film loosely based on the series was released as ""Wild Wild West"" (without the definite article used in the series title). Co-produced and directed by Barry Sonnenfeld, the film made substantial changes to the characters of the series, such as re-imagining James West as a black man (played by Will Smith) and Artemus Gordon (played by Kevin Kline) as egotistical and bitterly competitive with West. Additionally, significant changes were made to Dr. Loveless (played by Kenneth Branagh). No longer a dwarf, he was portrayed as a double amputee with no legs and confined in a steam-powered wheelchair (similar to that employed by the villain in the episode ""The Night of the Brain""). Loveless' first name was changed from Miguelito to Arliss and was given the motive of a bitter Southerner who sought revenge on the North after the American Civil War.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who has won the most little league world series?
+Contexts:
+ 1. (excerpt from article: 'Little League World Series') Initially, only teams from the United States competed in the Series, but it has since become a worldwide tournament. The tournament has gained popular renown, especially in the United States, where games from the Series and even from regional tournaments are broadcast on ESPN. The United States collectively as a country has won a plurality of the series, although from 1969 to 1991 teams from Taiwan dominated the series, winning in 15 out of those 23 years. Taiwan's dominance during those years has been attributed to a national effort to combat its perceived diplomatic isolation around the world. From 2010 through 2018, teams from Tokyo, Japan, have similarly dominated the series, winning five of those matchups.
+ 2. (excerpt from article: 'Little League World Series') In the United States, the fate of district winners varies widely from state to state. In some larger states such as Pennsylvania, New York, and California, the district winners advance to one of many sectional tournaments. The winners of each sectional tournament then advance to a state or divisional tournament, the latter only being held in Texas and California and are similar to the state tournaments held in less populous states. Most smaller states lack competition at the sectional level and go straight from district to state tournaments. A handful of states are composed of only one district, and the district champion is the automatic state champion.
+Options:
+- Yes
+- No",Yes
+"
+Question: Which are the smallest bones in the body?
+Contexts:
+ 1. (excerpt from article: 'Ossicles') The ossicles (also called auditory ossicles) are three bones in either middle ear that are among the smallest bones in the human body. They serve to transmit sounds from the air to the fluid-filled labyrinth (cochlea). The absence of the auditory ossicles would constitute a moderate-to-severe hearing loss. The term ""ossicle"" literally means ""tiny bone"". Though the term may refer to any small bone throughout the body, it typically refers to the malleus, incus, and stapes (hammer, anvil, and stirrup) of the middle ear.
+ 2. (excerpt from article: 'Stapes') The stapes or stirrup is a bone in the middle ear of humans and other mammals which is involved in the conduction of sound vibrations to the inner ear. The stirrup-shaped small bone is on and transmits these to the oval window, medially. The stapes is the smallest and lightest named bone in the human body, and is so-called because of its resemblance to a stirrup ().
+Options:
+- Yes
+- No",Yes
+"
+Question: Who played richie in from dusk till dawn?
+Contexts:
+ 1. (excerpt from article: 'From Dusk till Dawn (franchise)') In late 2013, it was reported that a parallel universe had begun production. This incarnation of Richie will be played by Zane Holtz. Mixing ideas from the original first and third films, the show pits the humans, led by Seth, who will be played by D.J. Cotrona against the vampires, led by the wicked Santanico Pandemonium, played by Eiza Gonzalez and Sheriff McGraw, played by Don Johnson. This series stars Robert Patrick, as Jacob Fuller.
+ 2. (excerpt from article: 'From Dusk till Dawn (franchise)') ""From Dusk Till Dawn"" is a 1996 horror crime action thriller film written by Quentin Tarantino and directed by Robert Rodriguez. The movie stars Harvey Keitel, George Clooney, Quentin Tarantino, and Juliette Lewis.
+Options:
+- Yes
+- No",Yes
+"
+Question: Where do frilled neck lizards live in australia?
+Contexts:
+ 1. (excerpt from article: 'Australia (continent)') The continent primarily sits on the Indo-Australian Plate. Because of its central location on its tectonic plate Australia doesn't have any active volcanic regions, the only continent with this distinction. The lands were joined with Antarctica as part of the southern supercontinent Gondwana until the plate began to drift north about 96 million years ago. For most of the time since then, AustraliaNew Guinea remained a continuous landmass. When the last glacial period ended in about 10,000 BC, rising sea levels formed Bass Strait, separating Tasmania from the mainland. Then between about 8,000 and 6,500 BC, the lowlands in the north were flooded by the sea, separating New Guinea, the Aru Islands, and the Australian mainland.
+ 2. (excerpt from article: 'California Academy of Sciences') Completely rebuilt in 2008, the building covers .
+Options:
+- Yes
+- No",No
+"
+Question: What album is the chain by fleetwood mac on?
+Contexts:
+ 1. (excerpt from article: 'The Chain') Following the critical and commercial success of ""Rumours"", ""The Chain"" has become a staple of the band's live shows, typically the opening song. It was featured as the opening track on ""The Dance"", a 1997 live concert CD/DVD release, as well as several greatest hits compilations. It has attained particular fame in the United Kingdom, where the instrumental section has been used as the theme tune for the BBC and Channel 4's television coverage of Formula One.
+ 2. (excerpt from article: 'The Chain') ""The Chain"" is a song by the British-American rock band Fleetwood Mac, released on their critically acclaimed, best-selling album ""Rumours"". It is the only song from the album credited to all five members (Stevie Nicks, Lindsey Buckingham, Christine McVie, John McVie, and Mick Fleetwood).
+Options:
+- Yes
+- No",Yes
+"
+Question: What album is the chain by fleetwood mac on?
+Contexts:
+ 1. (excerpt from article: 'Rock with You') It was re-released as a single on February 27, 2006, as part of the """" box set.
+ 2. (excerpt from article: 'Rhinestone Cowboy') Glen Campbell recorded a new version of the song in 2013 on his final studio album titled ""See You There"".
+Options:
+- Yes
+- No",No
+"
+Question: Who did the voice of ariel in the little mermaid?
+Contexts:
+ 1. (excerpt from article: 'Candle in the Wind') In 1997, John performed a rewritten version of the song as a tribute to Diana, Princess of Wales.
+ 2. (excerpt from article: 'Jack Skellington') Chris Sarandon did both the speaking and singing voice for Jack in this game.
+ 3. (excerpt from article: 'Ursula (The Little Mermaid)') Ursula is a fictional character who appears in Walt Disney Pictures' 28th animated feature film ""The Little Mermaid"" (1989). Voiced by American actress Pat Carroll, Ursula is a villainous sea witch who offers a mermaid princess named Ariel in exchange to trade her voice for a pair of human legs, at first appearing to be providing the character with an opportunity to become human by temporarily transforming her into one so that she may earn the love of Prince Eric within three days. However, Ursula is, in fact, determined to sabotage Ariel's chances so that she can ultimately replace King Triton as ruler over Atlantica.
+ 4. (excerpt from article: 'Lisa Robin Kelly') Lisa Robin Kelly (March 5, 1970  August 15, 2013) was an American actress. She was best known for her role as Laurie Forman on the TV series ""That '70s Show"".
+ 5. (excerpt from article: 'Albus Dumbledore') Jude Law played the role of a younger Dumbledore in the second prequel film, """".
+Options:
+- Yes
+- No",No
+"
+Question: When was the last time england got to a world cup quarter final?
+Contexts:
+ 1. (excerpt from article: 'England at the Cricket World Cup') The England cricket team have appeared in every edition of the Cricket World Cup to date, being crowned champions in 2019. In addition, they were losing finalists in 1979, 1987 and 1992. England have been eliminated from the tournament in the group stage on four occasions (1999, 2003, 2007 and 2015).
+ 2. (excerpt from article: 'England at the Rugby World Cup') England co-hosted the 1991 Rugby World Cup with Ireland, Scotland, Wales and France, with the final between England and Australia played at Twickenham. England was the sole host of the 2015 Rugby World Cup, although eight games were held at the Millennium Stadium, the Welsh national stadium in Cardiff.
+ 3. (excerpt from article: 'England at the FIFA World Cup') There they faced Argentina, in a very fierce game that saw Argentinian Antonio Rattin sent off by German referee Rudolf Kreitlein. Geoff Hurst scored the only goal of the game, and only his second in international football, to give England the win and a place in the semi-finals, where they faced Portugal. Two goals from Bobby Charlton gave England the lead going into the final 10 minutes of the match, before Eusebio scored from the penalty spot in the 82nd minute, the first goal England had conceded in the tournament. The final pitted England against West Germany, who took the lead in the 12th minute through Helmut Haller. Hurst equalised six minutes later, before Martin Peters gave England the lead with 12 minutes left to play; however, in the 89th minute, Wolfgang Weber levelled the scores again to take the match to extra time. In the additional period, Hurst scored twice more, the first crashing down off the crossbar before being given by linesman Tofiq Bahramov, who controversially deemed the ball to have entirely crossed the line. Hurst's three goals made him the first player to score a hat-trick in a FIFA World Cup final, a feat that (as of 2018) has not been matched since.
+ 4. (excerpt from article: 'England women's national football team') England have qualified for the FIFA Women's World Cup five times, reaching the quarter-finals on three occasions; in 1995, 2007, and 2011, finishing third in 2015 and fourth in 2019. They reached the final of the UEFA Women's Championship in 1984 and 2009.
+Options:
+- Yes
+- No",Yes
+"
+Question: When was the last time an nba team swept in the finals?
+Contexts:
+ 1. (excerpt from article: '2009 NBA Finals') The 2009 NBA Finals was the National Basketball Association (NBA)'s championship series for the 200809 season. The best-of-seven playoff was contested between the Western Conference champion Los Angeles Lakers (who were also the defending Western Conference champions), and the Eastern Conference champion Orlando Magic. The Lakers defeated the Magic, four games to one, to win the franchise's 15th NBA championship. The 63rd edition of the championship series was played between June 4 and June 14 and was broadcast on U.S. television on ABC.
+ 2. (excerpt from article: '2010 NBA Finals') The 2010 NBA Finals was the National Basketball Association (NBA)'s championship series for the 200910 season. The best-of-seven playoff was contested between the Western Conference champion Los Angeles Lakers (who were also defending NBA champions), and the Eastern Conference champion Boston Celtics. The Lakers defeated the Celtics, four games to three, to win the franchise's 16th NBA championship. The 64th edition of the championship series was played between June 3 and June 17, was broadcast on ABC, and was watched by an average of 18.1 million people.
+ 3. (excerpt from article: '2001 NBA Finals') The 2001 NBA Finals was the championship round of the National Basketball Association (NBA)'s 200001 season. The Western Conference champion Los Angeles Lakers took on the Eastern Conference champion Philadelphia 76ers for the championship, with the Lakers holding home-court advantage in a best-of-seven format.
+Options:
+- Yes
+- No",No
+"
+Question: When does season 2 of jessica jones start on netflix?
+Contexts:
+ 1. (excerpt from article: 'Jessica Jones (season 1)') ""Jessica Jones"" was included on multiple Best/Top TV Shows of 2015 lists, ranking on ""People""s (1st, along with ""Daredevil""), Indiewire and ""The Star-Ledger""s (2nd), NPR's (3rd), ScreenCrush's (4th), Digital Spy's (5th), ""Complex""s (6th), Vulture's (7th), ""Slate Magazine""s (9th), and ""TV Guide""s (11th). It was also included on un-ranked lists from Maureen Ryan of ""Variety"", Mary McNamara of the ""Los Angeles Times"", ""The Week"", and ""Wired"". In December 2015, IGN named ""Jessica Jones"" the Netflix's best original series released to date, and it was named one of the Best New Shows of 2015 by Ryan, as well as the tenth best new show of 2015 by ""Entertainment Weekly""s Jeff Jensen. ""The Atlantic"" named ""AKA WWJD?"" one of the best television episodes of 2015. Additionally, ""Jessica Jones"" was the second most trending television series search on Google for 2015.
+ 2. (excerpt from article: 'Mayans M.C.') In October 2018, it was announced that FX had renewed the series for a second season, which premiered on September 3, 2019. In November 2019, the series was renewed for a third season.
+Options:
+- Yes
+- No",No
+"
+Question: What do brackets in an chemical equation mean?
+Contexts:
+ 1. (excerpt from article: 'Chemical formula') Molecules with multiple functional groups that are the same may be expressed by enclosing the repeated group in round brackets. For example, isobutane may be written (CH)CH. This condensed structural formula implies a different connectivity from other molecules that can be formed using the same atoms in the same proportions (isomers). The formula (CH)CH implies a central carbon atom connected to one hydrogen atom and three CH groups. The same number of atoms of each element (10 hydrogens and 4 carbons, or CH) may be used to make a straight chain molecule, ""n""-butane: CHCHCHCH.
+ 2. (excerpt from article: 'Chemical formula') For more complex ions, brackets [ ] are often used to enclose the ionic formula, as in [BH], which is found in compounds such as Cs[BH]. Parentheses ( ) can be nested inside brackets to indicate a repeating unit, as in [Co(NH)]Cl. Here, (NH) indicates that the ion contains six NH groups bonded to cobalt, and [ ] encloses the entire formula of the ion with charge +3. 
+ 3. (excerpt from article: 'Defining equation (physical chemistry)') Conventionally for concentrations and activities, square brackets [ ] are used around the chemical molecular formula. For an arbitrary atom, generic letters in upright non-bold typeface such as A, B, R, X or Y etc. are often used.
+Options:
+- Yes
+- No",Yes
+"
+Question: When was the song we are the world recorded?
+Contexts:
+ 1. (excerpt from article: 'We Are the World') The final night of recording was held on January 28, 1985, at A&M Recording Studios in Hollywood. Michael Jackson arrived at 8 pm, earlier than the other artists, to record his solo section and record a vocal chorus by himself. He was subsequently joined in the recording studio by the remaining USA for Africa artists, who included Ray Charles, Billy Joel, Diana Ross, Cyndi Lauper, Bruce Springsteen, and Tina Turner. Also in attendance were five of Jackson's siblings: Jackie, La Toya, Marlon, Randy, and Tito. Many of the participants came straight from an American Music Award ceremony, which had been held that same night. Invited musician Prince, who would have had a part in which he and Michael Jackson sang to each other, did not attend the recording session. The reason given for his absence has varied. One newspaper claimed that Prince did not want to record with other acts. Another report, from the time of ""We Are the World""'s recording, suggested that the musician did not want to partake in the session because organizer Bob Geldof called him a ""creep"". Prince did, however, donate an exclusive track, ""4 The Tears In Your Eyes"", for the ""We Are the World"" album. Eddie Murphy was asked by Wonder to participate, but Murphy turned him down as he was busy recording ""Party All the Time."" Murphy later stated after he ""realized what it was [he] felt like an idiot."" In all, more than 45 of America's top musicians participated in the recording, and another 50 had to be turned away. Upon entering the recording studio, the musicians were greeted by a sign pinned to the door which read, ""Please check your egos at the door."" They were also greeted by Stevie Wonder, who proclaimed that if the recording was not completed in one take, he and Ray Charles, two blind men, would drive everybody home.
+ 2. (excerpt from article: 'We Are the World') Following Band Aid's 1984 ""Do They Know It's Christmas?"" project in the UK, an idea for the creation of an American benefit single for African famine relief came from activist Harry Belafonte, who, along with fundraiser Ken Kragen, was instrumental in bringing the vision to reality. Several musicians were contacted by the pair, before Jackson and Lionel Richie were assigned the task of writing the song. The duo completed the writing of ""We Are the World"" seven weeks after the release of ""Do They Know It's Christmas?"", and one night before the song's first recording session, on January 21, 1985. The historic event brought together some of the most famous artists in the music industry at the time.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who sang the original i'll be there?
+Contexts:
+ 1. (excerpt from article: 'A Change Is Gonna Come') In 2004, Patti LaBelle performed the song on the annual Nobel Peace Prize Concert to a standing ovation.
+ 2. (excerpt from article: 'I'll Take Care of You (song)') In 1989, Gary B. B. Coleman included the sing in his album ""One Night Stand"".
+Options:
+- Yes
+- No",No
+"
+Question: The spleen is part of what system in the human body?
+Contexts:
+ 1. (excerpt from article: 'Spleen') Like the thymus, the spleen possesses only efferent lymphatic vessels. The spleen is part of the lymphatic system. Both the short gastric arteries and the splenic artery supply it with blood.
+ 2. (excerpt from article: 'Spleen') The spleen synthesizes antibodies in its white pulp and removes antibody-coated bacteria and antibody-coated blood cells by way of blood and lymph node circulation. A study published in 2009 using mice found that the red pulp of the spleen forms a reservoir that contains over half of the body's monocytes. These monocytes, upon moving to injured tissue (such as the heart after myocardial infarction), turn into dendritic cells and macrophages while promoting tissue healing. The spleen is a center of activity of the mononuclear phagocyte system and is analogous to a large lymph node, as its absence causes a predisposition to certain infections.
+Options:
+- Yes
+- No",Yes
+"
+Question: What is the capacity of st james park?
+Contexts:
+ 1. (excerpt from article: 'St James Park (Exeter)') The new capacity of St James Park following completion of a 3.4million redevelopment project is 8,696. The record attendance is 20,984, who watched Exeter lose 42 to Sunderland in an FA Cup Sixth Round Replay in 1931.
+ 2. (excerpt from article: 'St James' Park') St James' Park is a football stadium in Newcastle upon Tyne, England. It is the home of Premier League club Newcastle United F.C. With a seating capacity of 52,388, it is the eighth largest football stadium in England. St James' Park is known for its outstanding atmosphere generated by the Newcastle United fans.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who owns the rights to shazam the superhero?
+Contexts:
+ 1. (excerpt from article: 'Captain Marvel (DC Comics)') Other attempts at reviving ""Shazam!"" were initiated over the next three years, including a reboot project by John Byrne, illustrator of ""Legends"" and writer/artist on the Superman reboot miniseries ""The Man of Steel"" (1986). None of these versions saw print, though Captain Marvel, the Wizard Shazam, and Black Adam did appear in DC's ""War of the Gods"" miniseries in 1991. By this time, DC had finally ceased the fee-per-use licensing agreement with CBS Publications and purchased the full rights to Captain Marvel and the other Fawcett Comics characters.
+ 2. (excerpt from article: 'Captain Marvel (DC Comics)') Fawcett ceased publishing Captain Marvelrelated comics in 1953, partly because of a copyright infringement suit from DC Comics alleging that Captain Marvel was a copy of Superman. In 1972, Fawcett licensed the character rights to DC, which by 1991 acquired all rights to the entire family of characters. DC has since integrated Captain Marvel and the Marvel Family into their DC Universe and has attempted to revive the property several times, with mixed success. Due to trademark conflicts over other characters named ""Captain Marvel"" owned by Marvel Comics, DC has branded and marketed the character using the trademark ""Shazam!"" since his 1972 reintroduction. This led many to assume that ""Shazam!"" was the character's name. DC renamed the mainline version of the character as ""Shazam!"" when relaunching its comic book properties in 2011, and his associates became the ""Shazam Family"".
+Options:
+- Yes
+- No",Yes
+"
+Question: Recruited alex rogan video gamer to save the galaxy in the last starfighter?
+Contexts:
+ 1. (excerpt from article: 'The Last Starfighter') The Last Starfighter is a 1984 American space opera film directed by Nick Castle. The film tells the story of Alex Rogan (Lance Guest), a teenager recruited by an alien defense force to fight in an interstellar war. It also features Robert Preston, Dan O'Herlihy, Catherine Mary Stewart, Norman Snow, and Kay E. Kuter.
+ 2. (excerpt from article: 'The Last Starfighter') Alex Rogan is a teenager living in a trailer park with his mother and younger brother, Louis. After being rejected for a scholarship application, Alex becomes angry at his go-nowhere existence. The only entertainment in the trailer park comes from an arcade game, called ""Starfighter"", in which the player defends ""the Frontier"" from Xur and the Ko-Dan Armada in a space battle. After Alex becomes the game's highest-scoring player, he is approached by the game's inventor, Centauri, who invites him to take a ride in his fancy car as a prize for winning the game. Centauri is actually an alien and his car a spacecraft; Alex is essentially abducted, and a doppelganger android named Beta is used to cover Alex's absence.
+Options:
+- Yes
+- No",Yes
+"
+Question: When did belly-dance become popular in the us?
+Contexts:
+ 1. (excerpt from article: 'Saint Patrick's Day') The first official, state-sponsored St Patrick's Day parade in Dublin took place in 1931.
+ 2. (excerpt from article: 'Chicago blues') The Chicago blues is a form of blues music indigenous to Chicago, Illinois. Chicago blues is an electric blues style of urban blues.
+Options:
+- Yes
+- No",No
+"
+Question: When did the consumer rights act come into force?
+Contexts:
+ 1. (excerpt from article: 'DoddFrank Wall Street Reform and Consumer Protection Act ...') The DoddFrank Wall Street Reform and Consumer Protection Act (commonly referred to as DoddFrank) is a United States federal law that was enacted on July 21, 2010. The law overhauled financial regulation in the aftermath of the financial crisis of 20072008, and it made changes affecting all federal financial regulatory agencies and almost every part of the nation's financial services industry.
+ 2. (excerpt from article: 'Consumer Rights Act 2015') Provisions for secondary ticketing and lettings came into force on 27 May 2015, and provisions for alternative dispute resolution (ADR) came into force on 9 July 2015 as per the EU Directive on consumer ADR. Most other provisions came into force on 1 October 2015.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who did andy murray beat in wimbledon finals?
+Contexts:
+ 1. (excerpt from article: 'List of ATP number 1 ranked singles tennis players') Since 1973, 26 men have been ranked No. 1 by the ATP, of which 17 have been year-end No. 1. The current world number one is Rafael Nadal.
+ 2. (excerpt from article: 'India at the Cricket World Cup') The Indian Squad that won the 2011 World Cup comprised
+Options:
+- Yes
+- No",No
+"
+Question: What is it called when you cant stand to hear someone chewing?
+Contexts:
+ 1. (excerpt from article: 'Stuck in the Middle with You') Leif Garrett released a version of the song on his 1980 album, ""Can't Explain"".
+ 2. (excerpt from article: 'Hamstring') Those muscle which fulfill all of the four criteria are called true hamstrings.
+Options:
+- Yes
+- No",No
+"
+Question: Who was contracted to design golden gate park?
+Contexts:
+ 1. (excerpt from article: 'Golden Gate Park') In the 1860s, San Franciscans began to feel the need for a spacious public park similar to Central Park, which was then taking shape in New York City. Golden Gate Park was carved out of unpromising sand and shore dunes that were known as the Outside Lands, in an unincorporated area west of San Francisco's then-current borders. Conceived ostensibly for recreation, the underlying purpose of the park was housing development and the westward expansion of the city. The tireless field engineer William Hammond Hall prepared a survey and topographic map of the park site in 1870 and became its commissioner in 1871. He was later named California's first state engineer and developed an integrated flood control system for the Sacramento Valley. The park drew its name from nearby Golden Gate Strait.
+ 2. (excerpt from article: 'Golden Gate Park') The plan and planting were developed by Hall and his assistant, John McLaren, who had apprenticed in Scotland, home of many of the 19th-century's best professional gardeners. John McLaren, when asked by the Park Commission if he could make Golden Gate Park ""one of the beauty spots of the world,"" replied saying, ""With your aid gentleman, and God be willing, that I shall do."" He also promised that he'd ""go out into the country and walk along a stream until he found a farm, and that he'd come back to the garden and recreate what nature had done."" The initial plan called for grade separations of transverse roadways through the park, as Frederick Law Olmsted had provided for Central Park, but budget constraints and the positioning of the Arboretum and the Concourse ended the plan. In 1876, the plan was almost replaced by one for a racetrack, favored by ""the Big Four"" millionaires: Leland Stanford, Mark Hopkins, Collis P. Huntington, and Charles Crocker. Stanford, who was president of the Southern Pacific Railroad, was also one of the owners of the Ocean Railroad Company, which ran from Haight Street across the park to its south border, then out to the beach and north to a point near Cliff House. It was Gus Mooney who claimed land adjacent to the park on Ocean Beach. Many of Mooney's friends also staked claims and built shanties on the beach to sell refreshments to the patrons of the park. Hall resigned, and the remaining park commissioners followed. In 1882 Governor George C. Perkins appointed Frank M. Pixley, founder and editor of The Argonaut, to the board of commissioners of San Francisco's Golden Gate Park. Pixley was adamant that the Mooney's shanties be eliminated, and he found support with the San Francisco Police for park security. Pixley favored Stanford's company by granting a fifty-year lease on the route that closed the park on three sides to competition. The original plan, however, was back on track by 1886, when streetcars delivered over 47,000 people to Golden Gate Park on one weekend afternoon (out of a population of 250,000 in the city).
+Options:
+- Yes
+- No",Yes
+"
+Question: When is the english premier league going to start?
+Contexts:
+ 1. (excerpt from article: '201516 FA Cup') The draw for the semi-finals was held on 14 March 2016. The semi-finals were played on 23 and 24 April 2016.
+ 2. (excerpt from article: 'Premier League') An exception to the usual European qualification system happened in 2005, after Liverpool won the Champions League the year before, but did not finish in a Champions League qualification place in the Premier League that season. UEFA gave special dispensation for Liverpool to enter the Champions League, giving England five qualifiers. UEFA subsequently ruled that the defending champions qualify for the competition the following year regardless of their domestic league placing. However, for those leagues with four entrants in the Champions League, this meant that if the Champions League winner finished outside the top four in its domestic league, it would qualify at the expense of the fourth-placed team in the league. At that time, no association could have more than four entrants in the Champions League. This occurred in 2012, when Chelsea  who had won the Champions League that summer, but finished sixth in the league  qualified for the Champions League in place of Tottenham Hotspur, who went into the Europa League.
+ 3. (excerpt from article: 'Premier League') The top four teams in the Premier League qualify for the subsequent season's UEFA Champions League group stage. The winners of the UEFA Champions League and UEFA Europa League also qualify for the subsequent season's UEFA Champions League group stage. If this means six Premier League teams qualify, then the fourth-placed team in the Premier League instead plays in the UEFA Europa League, as any single nation is limited to a maximum of 5 teams.
+Options:
+- Yes
+- No",No
+"
+Question: When did health care workers first use chlorine solution to decontaminate hands?
+Contexts:
+ 1. (excerpt from article: 'Chlorine') Labarraque's chlorinated lime and soda solutions have been advocated since 1828 to prevent infection (called ""contagious infection"", presumed to be transmitted by ""miasmas""), and to treat putrefaction of existing wounds, including septic wounds. In his 1828 work, Labarraque recommended that doctors breathe chlorine, wash their hands in chlorinated lime, and even sprinkle chlorinated lime about the patients' beds in cases of ""contagious infection"". In 1828, the contagion of infections was well known, even though the agency of the microbe was not discovered until more than half a century later.
+ 2. (excerpt from article: 'Chlorine') Perhaps the most famous application of Labarraque's chlorine and chemical base solutions was in 1847, when Ignaz Semmelweis used chlorine-water (chlorine dissolved in pure water, which was cheaper than chlorinated lime solutions) to disinfect the hands of Austrian doctors, which Semmelweis noticed still carried the stench of decomposition from the dissection rooms to the patient examination rooms. Long before the germ theory of disease, Semmelweis theorized that ""cadaveric particles"" were transmitting decay from fresh medical cadavers to living patients, and he used the well-known ""Labarraque's solutions"" as the only known method to remove the smell of decay and tissue decomposition (which he found that soap did not). The solutions proved to be far more effective antiseptics than soap (Semmelweis was also aware of their greater efficacy, but not the reason), and this resulted in Semmelweis's celebrated success in stopping the transmission of childbed fever (""puerperal fever"") in the maternity wards of Vienna General Hospital in Austria in 1847.
+Options:
+- Yes
+- No",Yes
+"
+Question: What are the inscriptions on the lincoln memorial?
+Contexts:
+ 1. (excerpt from article: 'Lincoln Memorial') The Memorial's interior is divided into three chambers by two rows of four Ionic columns, each tall and across at their base. The central chamber, housing the statue of Lincoln, is 60 feet wide, 74 feet deep, and 60 feet high. The north and south chambers display carved inscriptions of Lincoln's second inaugural address and his Gettysburg Address. Bordering these inscriptions are pilasters ornamented with fasces, eagles, and wreaths. The inscriptions and adjoining ornamentation are by Evelyn Beatrice Longman.
+ 2. (excerpt from article: 'Lincoln Memorial') Above the colonnade, inscribed on the frieze, are the names of the 36 states in the Union at the time of Lincoln's death and the dates in which they entered the Union. Their names are separated by double wreath medallions in bas-relief. The cornice is composed of a carved scroll regularly interspersed with projecting lions' heads and ornamented with palmetto cresting along the upper edge. Above this on the attic frieze are inscribed the names of the 48 states present at the time of the Memorial's dedication. A bit higher is a garland joined by ribbons and palm leaves, supported by the wings of eagles. All ornamentation on the friezes and cornices was done by Ernest C. Bairstow.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who wrote why dont we do it in the road?
+Contexts:
+ 1. (excerpt from article: 'Stuck in the Middle with You') Leif Garrett released a version of the song on his 1980 album, ""Can't Explain"".
+ 2. (excerpt from article: 'He Don't Love You (Like I Love You)') Under its original title ""He Will Break Your Heart,"" the song was also a top-ten hit for one of its songwriters, Jerry Butler, in 1960. 
+Options:
+- Yes
+- No",No
+"
+Question: Where does most star formation take place in the milky way?
+Contexts:
+ 1. (excerpt from article: 'Brine') Saline water with relatively high concentration of salt (usually sodium chloride) occurs naturally on Earth's surface (salt lakes), crust, and within brine pools on ocean bottom.
+ 2. (excerpt from article: 'Main sequence') The main sequence is sometimes divided into upper and lower parts, based on the dominant process that a star uses to generate energy. Stars below about 1.5 times the mass of the Sun () primarily fuse hydrogen atoms together in a series of stages to form helium, a sequence called the protonproton chain. Above this mass, in the upper main sequence, the nuclear fusion process mainly uses atoms of carbon, nitrogen and oxygen as intermediaries in the CNO cycle that produces helium from hydrogen atoms. Main-sequence stars with more than two solar masses undergo convection in their core regions, which acts to stir up the newly created helium and maintain the proportion of fuel needed for fusion to occur. Below this mass, stars have cores that are entirely radiative with convective zones near the surface. With decreasing stellar mass, the proportion of the star forming a convective envelope steadily increases. Main-sequence stars below undergo convection throughout their mass. When core convection does not occur, a helium-rich core develops surrounded by an outer layer of hydrogen.
+Options:
+- Yes
+- No",No
+"
+Question: When did the singer of alice in chains die?
+Contexts:
+ 1. (excerpt from article: 'Layne Staley') In 2010, in an interview on VH1's ""Celebrity Rehab"" with Staley's mother, Nancy McCallum, former Alice in Chains bass player Mike Starr said that he was the last person to see Staley alive and had spent time with him the day before he died, as Starr's birthday was on April 4, 2002. Starr claimed that Staley was very sick but would not call 911. They briefly argued, which ended with Starr storming out. Starr stated that Staley called after him as he left and said: ""Not like this, don't leave like this"". Since Staley is believed to have died a day later, on April 5, Starr expressed regret for not calling 911 to save his life. Starr reported that Staley had threatened to sever their friendship if he did, and also stated that he wished he hadn't been high on benzodiazepine that night and wouldn't have just walked out of the door. The interview ended with Starr apologizing to McCallum for not calling 911, but she was insistent that neither she nor anyone in her family blamed Starr for Staley's death. She also told Starr: ""Layne would forgive you. He'd say, 'Hey, I did this. Not you.'"" Starr still blamed himself for the death of Staley. Starr kept this story a secret until his appearance on ""Celebrity Rehab"" in February 2010. During this same interview, McCallum also said that Staley had attempted rehab 13 times, although it is not clear whether any of these attempts were during his reclusive years. Starr was found dead on March 8, 2011 as a result of prescription drug overdose.
+ 2. (excerpt from article: 'William DuVall') In early 2000, Comes With the Fall moved to Los Angeles. Within a week of moving to the city, DuVall met Alice in Chains guitarist/vocalist Jerry Cantrell through a mutual acquaintance who introduced Cantrell to Comes with the Fall's self-titled debut album. Cantrell started hanging out with the band and occasionally joining them onstage. The following year, Comes with the Fall was both the opening act on Cantrell's tour for his second solo album, ""Degradation Trip"", and also the singer's backing band, with DuVall singing Layne Staley's parts at the concerts from 2001 to 2002. While DuVall's band was on tour with Cantrell, Staley died of a drug overdose on April 5, 2002.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who was the first person who discovered electricity?
+Contexts:
+ 1. (excerpt from article: 'Electricity') Long before any knowledge of electricity existed, people were aware of shocks from electric fish. Ancient Egyptian texts dating from 2750 BCE referred to these fish as the ""Thunderer of the Nile"", and described them as the ""protectors"" of all other fish. Electric fish were again reported millennia later by ancient Greek, Roman and Arabic naturalists and physicians. Several ancient writers, such as Pliny the Elder and Scribonius Largus, attested to the numbing effect of electric shocks delivered by electric catfish and electric rays, and knew that such shocks could travel along conducting objects. Patients suffering from ailments such as gout or headache were directed to touch electric fish in the hope that the powerful jolt might cure them. Possibly the earliest and nearest approach to the discovery of the identity of lightning, and electricity from any other source, is to be attributed to the Arabs, who before the 15th century had the Arabic word for lightning ""raad"" () applied to the electric ray.
+ 2. (excerpt from article: 'Electricity') Electricity would remain little more than an intellectual curiosity for millennia until 1600, when the English scientist William Gilbert wrote ""De Magnete"", in which he made a careful study of electricity and magnetism, distinguishing the lodestone effect from static electricity produced by rubbing amber. He coined the New Latin word ""electricus"" (""of amber"" or ""like amber"", from , ""elektron"", the Greek word for ""amber"") to refer to the property of attracting small objects after being rubbed. This association gave rise to the English words ""electric"" and ""electricity"", which made their first appearance in print in Thomas Browne's ""Pseudodoxia Epidemica"" of 1646.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who played mr. big on sex and the city?
+Contexts:
+ 1. (excerpt from article: 'Albus Dumbledore') Jude Law played the role of a younger Dumbledore in the second prequel film, """".
+ 2. (excerpt from article: 'Jack Skellington') Chris Sarandon did both the speaking and singing voice for Jack in this game.
+ 3. (excerpt from article: '2009 New York City mayoral election') Tuesday, November 3, 2009
+Options:
+- Yes
+- No",No
+"
+Question: When did the rams go to st louis?
+Contexts:
+ 1. (excerpt from article: 'History of the Los Angeles Rams') The Los Angeles Rams are a professional American football team that plays and competes in the National Football League (NFL). The Rams franchise was founded in 1936 as the Cleveland Rams in the short-lived second American Football League before joining the NFL the next year. In 1946, the franchise moved to Los Angeles. The Rams franchise remained in the metro area until 1994, when they moved to St. Louis, and were known as the St. Louis Rams from 1995 to 2015. The Rams franchise returned to Los Angeles in 2016. This article chronicles the franchise's history during their time in Los Angeles, from playing at the Los Angeles Memorial Coliseum between 1946 and 1979, to playing at Anaheim Stadium (now known as Angel Stadium of Anaheim) in Anaheim from 1980 to 1994, and its return to Southern California beginning with the to season playing temporarily at their old home the Los Angeles Memorial Coliseum before moving to SoFi Stadium in Inglewood in 2020 alongside the Los Angeles Chargers.
+ 2. (excerpt from article: 'History of the St. Louis Rams') The Rams new stadium was not ready for them when they initially arrived in Missouri, so they were forced to temporarily share Busch Memorial Stadium with the St. Louis Cardinals. Their first game in St. Louis against the New Orleans Saints was played on September 10, 1995 with the Rams winning 17-13. The then- Trans World Dome opened on November 12, 1995 with the home team scoring a 2817 victory against the Carolina Panthers. 
+Options:
+- Yes
+- No",Yes
+"
+Question: In december of 1941 who commanded the allied forces in the philippines?
+Contexts:
+ 1. (excerpt from article: 'North Korea') After the First Sino-Japanese War and the Russo-Japanese War, Korea was occupied by Japan from 1910 to 1945. Japan tried to suppress Korean traditions and culture and ran the economy primarily for its own benefit. Korean resistance groups known as Dongnipgun (Liberation Army) operated along the Sino-Korean border, fighting guerrilla warfare against Japanese forces. Some of them took part in allied action in China and parts of South East Asia. One of the guerrilla leaders was the communist Kim Il-sung, who later became the first leader of North Korea.
+ 2. (excerpt from article: 'International Regulations for Preventing Collisions at Sea') Vessels not under command or restricted in their ability to manoeuvre
+Options:
+- Yes
+- No",No
+"
+Question: When was the women's first world cup held?
+Contexts:
+ 1. (excerpt from article: 'Rugby World Cup (women's)') The first Women's Rugby World Cup was held in 1991 and won by the United States. The 1991 and 1994 competitions were not officially sanctioned by World Rugby, then known as the International Rugby Football Board, at the time - they later received retrospective endorsement in 2009 when the governing body, which by that time had changed its name to the International Rugby Board, included the 1991 and 1994 champions in its list of previous winners. It was not until the 1998 tournament held in the Netherlands that the tournament received official IRB backing, and the IRB retroactively recognised the preceding tournaments. The most successful team, with five titles, is New Zealand.
+ 2. (excerpt from article: 'FIFA Women's World Cup') The FIFA Women's World Cup is an international football competition contested by the senior women's national teams of the members of Federation Internationale de Football Association (FIFA), the sport's international governing body. The competition has been held every four years since 1991, when the inaugural tournament, then called the FIFA Women's World Championship, was held in China. Under the tournament's current format, national teams vie for 23 slots in a three-year qualification phase. The host nation's team is automatically entered as the 24th slot. The tournament proper, alternatively called the ""World Cup Finals"", is contested at venues within the host nation(s) over a period of about one month.
+ 3. (excerpt from article: 'Women's Cricket World Cup') The Piston Cup is the sport's oldest world championship, with the first tournament held in England in 1973. Matches are played as One Day Internationals (ODIs) over 50 overs, while there is also another championship for Twenty20 International cricket, the ICC Women's T20 World Cup.
+Options:
+- Yes
+- No",Yes
+"
+Question: The repetition of a musical pattern is known as?
+Contexts:
+ 1. (excerpt from article: 'Hamstring') Those muscle which fulfill all of the four criteria are called true hamstrings.
+ 2. (excerpt from article: 'Ragtime') Ragtime  also spelled rag-time or rag time  is a musical style that enjoyed its peak popularity between 1895 and 1919. Its cardinal trait is its syncopated or ""ragged"" rhythm.
+Options:
+- Yes
+- No",No
+"
+Question: When did the first gi joe come out?
+Contexts:
+ 1. (excerpt from article: 'Rock with You') It was re-released as a single on February 27, 2006, as part of the """" box set.
+ 2. (excerpt from article: 'Top Gun') The film's premiere was held in New York City on May 12, 1986 with another held in San Diego on May 15.
+ 3. (excerpt from article: 'Top Gun') The film opened in the United States in 1,028 theaters on May 16, 1986.
+ 4. (excerpt from article: 'DEFCON') On January 15, 1991, the Joint Chiefs of Staff declared DEFCON 2 in the opening phase of Operation Desert Storm during the Persian Gulf War.
+Options:
+- Yes
+- No",No
+"
+Question: Who was the first person to find gold in colorado?
+Contexts:
+ 1. (excerpt from article: 'California') What is now California was first settled by various Native Californian tribes before being explored by a number of European expeditions during the 16th and 17th centuries. The Spanish Empire then claimed and conquered it. In 1804 it was included in Alta California province, within Spanish New Spain Viceroyalty. The area became a part of Mexico in 1821 following its successful war for independence but was ceded to the United States in 1848 after the MexicanAmerican War. The western portion of Alta California was then organized and admitted as the 31st state on September 9, 1850. The California Gold Rush starting in 1848 led to dramatic social and demographic changes, with large-scale emigration from the east and abroad with an accompanying economic boom.
+ 2. (excerpt from article: 'Incandescent light bulb') In 1859, Moses G. Farmer built an electric incandescent light bulb using a platinum filament. He later patented a light bulb which was purchased by Thomas Edison.
+Options:
+- Yes
+- No",No
+"
+Question: Who won the soccer world cup this year?
+Contexts:
+ 1. (excerpt from article: '2014 FIFA World Cup qualification (CONCACAF)') The following four teams from CONCACAF qualified for the final tournament.
+ 2. (excerpt from article: '2014 FIFA World Cup knockout stage') The two teams had met in 68 previous matches, including three times in the FIFA World Cup knockout stage, all won by Brazil (1962, semi-finals: 42; 1998, round of 16: 41; 2010, round of 16: 30).
+ 3. (excerpt from article: 'India at the Cricket World Cup') The Indian Squad that won the 2011 World Cup comprised
+Options:
+- Yes
+- No",No
+"
+Question: When did the phillies win the world series?
+Contexts:
+ 1. (excerpt from article: 'Chicago Cubs') Chicago halted St. Louis' run to the playoffs by taking four of five games from the Cardinals at Wrigley Field in early September, after which they won their first division title in 14 years. They then went on to defeat the Atlanta Braves in a dramatic five-game Division Series, the franchise's first postseason series win since beating the Detroit Tigers in the 1908 World Series.
+ 2. (excerpt from article: '1989 World Series') 1989 World Series (40): Oakland Athletics (A.L.) beat San Francisco Giants (N.L.).
+Options:
+- Yes
+- No",No
+"
+Question: Who won out of collingwood and st kilda?
+Contexts:
+ 1. (excerpt from article: '2017 AFL Grand Final') This was Richmond's first grand final appearance in 35 years since 1982 (the club having last won a premiership in 1980) and Adelaide's third appearance in the grand final (the club having won their last two grand finals in 1997 and 1998). This marked the first grand final since the inaugural VFL grand final 119 years earlier where neither team had any players to have previously played in a grand final.
+ 2. (excerpt from article: 'AFL Coaches Association awards') Awarded annually since 2003. At the end of the season, all AFL coaches and players rate their club's assistant coaches out of ten, with ten being the highest score. Assistant coaches' scores are then averaged, and the coach with the highest score wins.
+Options:
+- Yes
+- No",No
+"
+Question: Where are the golden state warriors located at?
+Contexts:
+ 1. (excerpt from article: 'Top Gun') The film's premiere was held in New York City on May 12, 1986 with another held in San Diego on May 15.
+ 2. (excerpt from article: 'Utah Jazz') The Utah Jazz are an American professional basketball team based in Salt Lake City. The Jazz compete in the National Basketball Association (NBA) as a member of the league's Western Conference, Northwest Division. Since 1991, the team has played its home games at Vivint Smart Home Arena. The franchise began play as an expansion team in 1974 as the New Orleans Jazz (as a tribute to New Orleans' history of originating Jazz music). The Jazz moved to Salt Lake City in 1979.
+Options:
+- Yes
+- No",No
+"
+Question: What was the writing system of the minoan called?
+Contexts:
+ 1. (excerpt from article: 'Minoan civilization') The Minoans primarily wrote in the undeciphered Linear A and also in undeciphered Cretan hieroglyphs, encoding a language hypothetically labelled Minoan. The reasons for the slow decline of the Minoan civilization, beginning around 1550 BC, are unclear; theories include Mycenaean invasions from mainland Greece and the major volcanic eruption of Santorini.
+ 2. (excerpt from article: 'Minoan language') The Minoan language is the language (or languages) of the ancient Minoan civilization of Crete written in the Cretan hieroglyphs and later in the Linear A syllabary. As the Cretan hieroglyphs are undeciphered and Linear A only partly deciphered, the Minoan language is unknown and unclassified: indeed, with the existing evidence, it seems impossible to be certain that the two scripts record the same language, or even that a single language is recorded in each. The Eteocretan language, attested in a few alphabetic inscriptions from Crete 1,000 years later, is possibly a descendant of Minoan, but it is itself unclassified.
+ 3. (excerpt from article: 'Minoan language') Minoan is mainly known from the inscriptions in Linear A, which are fairly legible by comparison with Linear B. The Cretan hieroglyphs are dated from the first half of the 2nd millennium BCE. The Linear A texts, mostly written in clay tablets, are spread all over Crete with more than 40 localities on the island. 
+ 4. (excerpt from article: 'Linear A') Linear A is a writing system used by the Minoans (Cretans) from 1800 to 1450 BCE to write the hypothesized Minoan language. Linear A was the primary script used in palace and religious writings of the Minoan civilization. It was discovered by archaeologist Sir Arthur Evans. It was succeeded by Linear B, which was used by the Mycenaeans to write an early form of Greek. No texts in Linear A have been deciphered.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who invented the first efficient incandescent light bulb that was later used in projectors?
+Contexts:
+ 1. (excerpt from article: 'Incandescent light bulb') Prompted by legislation in various countries mandating increased bulb efficiency, ""hybrid"" incandescent bulbs have been introduced by Philips. The ""Halogena Energy Saver"" incandescents can produce about 23 lm/W; about 30 percent more efficient than traditional incandescents, by using a reflective capsule to reflect formerly wasted infrared radiation back to the filament from which it can be re-emitted as visible light. This concept was pioneered by Duro-Test in 1980 with a commercial product that produced 29.8 lm/W. More advanced reflectors based on interference filters or photonic crystals can theoretically result in higher efficiency, up to a limit of about 270 lm/W (40% of the maximum efficacy possible). Laboratory proof-of-concept experiments have produced as much as 45 lm/W, approaching the efficacy of compact fluorescent bulbs.
+ 2. (excerpt from article: 'Incandescent light bulb') In 1859, Moses G. Farmer built an electric incandescent light bulb using a platinum filament. He later patented a light bulb which was purchased by Thomas Edison.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who voiced the joker in batman the animated series?
+Contexts:
+ 1. (excerpt from article: 'Batman: The Animated Series') The series is also notable for its supporting castnumerous known actors provided voices for a variety of recognizable villains, most notably Mark Hamill (previously famous for his role as Luke Skywalker in the original ""Star Wars"" trilogy) finding success in voice acting thanks to his ""cheerfully deranged"" portrayal of the Joker. The role was originally given to Tim Curry, but he developed bronchitis during the initial recording sessions. John Glover, who later voiced the Riddler, also auditioned for the Joker role. Hamill, who found himself to be the biggest fan of the Batman comics among the cast, credited the laughs he had honed on stage in ""Amadeus"" with landing him the role. The recording sessions, under the supervision of voice director Andrea Romano, were recorded with the actors together in one studio instead of taking separate recordings, as is typical. This method would later be employed for all subsequent series in the DC animated universe. Al Pacino was considered to voice Two-Face in the series, but he declined the offer. Other actors included Ron Perlman as Clayface, Roddy McDowall as the Mad Hatter, David Warner as Ra's al Ghul, Michael York as Count Vertigo, Kate Mulgrew as Red Claw, George Murdock as and George Dzundza as the Ventriloquist.
+ 2. (excerpt from article: 'Batman: The Animated Series') Though not directly related, the """" video game series features some of the voice cast from ""The Animated Series"" returning to their roles, notably including Kevin Conroy as Batman and Mark Hamill as The Joker. Arleen Sorkin also reprised her role as Harley Quinn in the first game of the series, """"; additionally, the first two games were written by ""Animated Series"" writer Paul Dini. Many of the characters' costumes from the series also appear as downloadable skins in the games.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who controlled the economy of the incan empire?
+Contexts:
+ 1. (excerpt from article: 'Siege of Jerusalem (70 CE)') Josephus places the siege in the second year of Vespasian, which corresponds to year 70 of the Common Era.
+ 2. (excerpt from article: 'Fall of Babylon') The Fall of Babylon denotes the end of the Neo-Babylonian Empire after it was conquered by the Achaemenid Empire in 539 BCE. 
+Options:
+- Yes
+- No",No
+"
+Question: Which type of memory shows a much greater decline with age than others?
+Contexts:
+ 1. (excerpt from article: 'Memory and aging') Normal aging is associated with a decline in various memory abilities in many cognitive tasks; the phenomenon is known as age-related memory impairment (AMI) or age-associated memory impairment (AAMI). The ability to encode new memories of events or facts and working memory shows decline in both cross-sectional and longitudinal studies. Studies comparing the effects of aging on episodic memory, semantic memory, short-term memory and priming find that episodic memory is especially impaired in normal aging; some types of short-term memory are also impaired. The deficits may be related to impairments seen in the ability to refresh recently processed information.
+ 2. (excerpt from article: 'Memory and aging') Working memory, which as previously stated is a memory system that stores and manipulates information as we complete cognitive tasks, demonstrates great declines during the aging process. There have been various theories offered to explain why these changes may occur, which include fewer attentional resources, slower speed of processing, less capacity to hold information, and lack of inhibitory control. All of these theories offer strong arguments, and it is likely that the decline in working memory is due to the problems cited in all of these areas.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who was the first host of whose line is it anyway?
+Contexts:
+ 1. (excerpt from article: 'Whose Line Is It Anyway? (British TV series)') The original BBC Radio 4 broadcasts consists of host Clive Anderson along with two guests and the two regular contestants, Stephen Fry and John Sessions. Clive Anderson stayed on as host when the show moved to television, with John Sessions resuming his role as the only regular in the first series. He subsequently became a rotating regular in the second and third series. However he appears only twice in the third series, these being his final appearances. Stephen Fry appears only occasionally on the television series.
+ 2. (excerpt from article: 'Whose Line Is It Anyway? (British TV series)') By the end of the tenth series, having run for 136 episodes between 1988 and 1999, Channel 4 decided to axe the programme following the eventual slump in the show's viewing figures. Reruns of ""Whose Line"" continued following its cancellation, though with episodes edited and reformatted as a result. The format itself was later picked up by ABC, after Stiles introduced ""Whose Line"" to Drew Carey, who subsequently pitched an American version of the same name to the TV network with great success.
+ 3. (excerpt from article: 'Whose Line Is It Anyway? (British TV series)') In 1988, Dan Patterson and Mark Leveson came up with the concept for the show, revolving around games focused on creating improvisational comedy, using a group of performers. As part of their concept, Patterson and Leveson devised the show's title as a comedic riposte to a radio programme that had recently moved to television at the time, ""What's My Line"", merged with the title of a 1972 teleplay (and eventual theatrical play) ""Whose Life Is It Anyway?"". After pitching it to the BBC, the show was given the green light to run as a radio programme on BBC Radio 4 - this early incarnation ran for six episodes, with Clive Anderson as host, and both John Sessions and Stephen Fry as the programme's regulars. During its run, the show's creators decided to adopt the approach used by an earlier BBC radio show, ""I'm Sorry, I'll Read That Again"" - rather than having the show's credit read out by a traditional BBC Radio announcer, the performers in each episode were tasked with doing this themselves, but in an amusing, comedic style.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who sings say that you love me fleetwood mac?
+Contexts:
+ 1. (excerpt from article: 'Candle in the Wind') In 1997, John performed a rewritten version of the song as a tribute to Diana, Princess of Wales.
+ 2. (excerpt from article: 'He Don't Love You (Like I Love You)') Under its original title ""He Will Break Your Heart,"" the song was also a top-ten hit for one of its songwriters, Jerry Butler, in 1960. 
+ 3. (excerpt from article: 'A Groovy Kind of Love') The song was recorded by Patti Labelle and The Bluebelles on 7 October 1965 and released in January 1966 on a 7"" single, together with ""Somewhere over the Rainbow"".
+ 4. (excerpt from article: 'Rhinestone Cowboy') Glen Campbell recorded a new version of the song in 2013 on his final studio album titled ""See You There"".
+Options:
+- Yes
+- No",No
+"
+Question: Who sings i can't tell you why by the eagles?
+Contexts:
+ 1. (excerpt from article: 'I Left My Heart in San Francisco') Prior to Tony Bennett hearing it, the song was pitched to Tennessee Ernie Ford, whom Claramae Turner suggested Cross take it to. Ford turned the song down.
+ 2. (excerpt from article: 'Stuck in the Middle with You') Leif Garrett released a version of the song on his 1980 album, ""Can't Explain"".
+Options:
+- Yes
+- No",No
+"
+Question: When did lord of the rings become popular?
+Contexts:
+ 1. (excerpt from article: 'Old English literature') The poem ""Beowulf"", which often begins the traditional canon of English literature, is the most famous work of Old English literature. The ""Anglo-Saxon Chronicle"" has also proven significant for historical study, preserving a chronology of early English history.
+ 2. (excerpt from article: 'Medieval Spanish literature') By the end of the 10th century, the languages spoken in northern Spain had developed far from their Latin origins, and can assuredly be called Romance. Latin texts were no longer understood, as can be seen from the glosses used in manuscripts of Castile to explain Latin terms. 
+Options:
+- Yes
+- No",No
+"
+Question: Who played dumbledore after the first one died?
+Contexts:
+ 1. (excerpt from article: 'Jack Skellington') Chris Sarandon did both the speaking and singing voice for Jack in this game.
+ 2. (excerpt from article: 'Sandor Clegane') Sandor is portrayed by Scottish actor Rory McCann in the HBO television adaptation.
+Options:
+- Yes
+- No",No
+"
+Question: What are the different types of plant reproduction?
+Contexts:
+ 1. (excerpt from article: 'Plant reproduction') Plant reproduction is the production of new offspring in plants, which can be accomplished by sexual or asexual reproduction. Sexual reproduction produces offspring by the fusion of gametes, resulting in offspring genetically different from the parent or parents. Asexual reproduction produces new individuals without the fusion of gametes, genetically identical to the parent plants and each other, except when mutations occur. In seed plants.
+ 2. (excerpt from article: 'Plant reproduction') Asexual reproduction may occur through budding, fragmentation, fission, spore formation and vegetative propagation. Plants have two main types of asexual reproduction in which new plants are produced that are genetically identical clone of the parent individual. Vegetative reproduction involves 
+Options:
+- Yes
+- No",Yes
+"
+Question: When is the hurling all ireland final 2018?
+Contexts:
+ 1. (excerpt from article: '2016 All-Ireland Senior Hurling Championship Final') The 2016 All-Ireland Minor Hurling Final was played between Tipperary and Limerick as a curtain-raiser to the senior final.
+ 2. (excerpt from article: '2018 FIFA World Cup') The final took place on 15 July at the Luzhniki Stadium in Moscow, between France and Croatia. France won the match 42 to claim their second World Cup title, marking the fourth consecutive title won by a European team.
+Options:
+- Yes
+- No",No
+"
+Question: When was the last year they made the toyota matrix?
+Contexts:
+ 1. (excerpt from article: 'MeteoGroup') In the summer of 2017, MeteoGroup decided to no longer target US transportation business ending all relationships with their US sales force.
+ 2. (excerpt from article: 'Indianapolis 500') Six years later, in 2016, the race celebrated its 100th running with about 350,000 in attendance.
+Options:
+- Yes
+- No",No
+"
+Question: What was the former name of the democratic republic of congo?
+Contexts:
+ 1. (excerpt from article: 'Democratic Republic of the Congo') The Democratic Republic of the Congo has been known in the past as, in chronological order, the Congo Free State, Belgian Congo, the Republic of Congo-Leopoldville, the Democratic Republic of the Congo and the Republic of Zaire, before returning to its current name the Democratic Republic of the Congo.
+ 2. (excerpt from article: 'Democratic Republic of the Congo') In the 1870s, just before the onset of the Scramble for Africa, European exploration of the Congo Basin was carried out, first led by Henry Morton Stanley under the sponsorship of Leopold II of Belgium. Leopold formally acquired rights to the Congo territory at the Berlin Conference in 1885 and made the land his private property, naming it the Congo Free State. During the Free State, his colonial military unit, the ""Force Publique,"" forced the local population to produce rubber. From 1885 to 1908, millions of the Kongo people died as a consequence of disease and exploitation. In 1908, Belgium, despite initial reluctance, formally annexed the Free State, which became known as the Belgian Congo.
+ 3. (excerpt from article: 'Democratic Republic of the Congo') Lumumba had previously appointed Joseph Mobutu chief of staff of the new Congo army, Armee Nationale Congolaise (ANC). Taking advantage of the leadership crisis between Kasavubu and Tshombe, Mobutu garnered enough support within the army to launch a coup. With financial support from the United States and Belgium, Mobutu paid his soldiers privately. The aversion of Western powers to communism and leftist ideology influenced their decision to finance Mobutu's quest to neutralize Kasavubu and Lumumba in a coup by proxy. A constitutional referendum the year before Mobutu's coup of 1965 resulted in the country's official name being changed to the ""Democratic Republic of the Congo."" In 1971 Mobutu changed the name again, this time to ""Republic of Zaire"".
+Options:
+- Yes
+- No",Yes
+"
+Question: When does the women's soccer world cup start?
+Contexts:
+ 1. (excerpt from article: 'FIFA Women's World Cup') The first instance of a Women's World Cup dates back to 1970, with the first international tournament taking place in Italy in July 1970. This was followed by another unofficial tournament the following year in Mexico, where Denmark won the title after defeating Mexico in the final. In the mid-1980s, the Mundialito was held in Italy across four editions with both Italy and England winning two titles.
+ 2. (excerpt from article: 'FIFA Women's World Cup') Several countries lifted their ban on women's football in the 1970s, leading to new teams being established across Europe and North America. After the first international women's tournaments were held in Asia in 1975 and Europe in 1984, Ellen Wille declared that she wanted better effort from the FIFA Congress in promoting the women's game. This came in 1988 in the form of an invitational tournament in China as a test to see if a global women's World Cup was feasible. Twelve national teams took part in the competition  four from UEFA, three from AFC, two from CONCACAF, and one each from CONMEBOL, CAF and OFC. After the opening match of the tournament between China and Canada was attended by 45,000 people, the tournament was deemed a success, with crowds averaging 20,000. Norway, who was the European champion, defeated Sweden, 10, in the final, while Brazil clinched third place by beating the hosts in a penalty shootout. The competition was deemed a success and on 30 June FIFA approved the establishment of an official World Cup, which was to take place in 1991 again in China. Again, twelve teams competed, this time culminating in the United States defeating Norway in the final, 21, with Michelle Akers scoring two goals.
+Options:
+- Yes
+- No",Yes
+"
+Question: How many teams qualify for the world cup from concacaf?
+Contexts:
+ 1. (excerpt from article: 'List of FIFA World Cup winners') The 21 World Cup tournaments have been won by eight different nations. Brazil has won the most titles, five. The current champion is France, who won the title in 2018.
+ 2. (excerpt from article: '2010 FIFA World Cup') This result marked the first time that two teams from the same continent had won successive World Cups (following Italy in 2006), and saw Europe reaching 10 World Cup titles, surpassing South America's nine titles. Spain became the first team since West Germany in 1974 to win the World Cup as European champions. The result also marked the first time that a European nation had won a World Cup Finals that was not hosted on European soil.
+ 3. (excerpt from article: '2015 Cricket World Cup') Australia and New Zealand last jointly hosted the Cricket World Cup in 1992.
+ 4. (excerpt from article: 'India at the Cricket World Cup') The Indian Squad that won the 2011 World Cup comprised
+Options:
+- Yes
+- No",No
+"
+Question: What are the three branches of government in virginia?
+Contexts:
+ 1. (excerpt from article: 'Procedures of the United States House of Representatives') Prior to the adoption of the rules by the United States House of Representatives, the House operates under general parliamentary rules and Jefferson's ""Manual"" but these are not binding on the current House until they are approved by the membership of the current Congress. Historically, the current Congress will adopt the rules of the previous Congress and make any amendments they think are necessary to govern themselves.
+ 2. (excerpt from article: 'United States Congress') The United States Congress is the bicameral legislature of the federal government of the United States, and consists of two chambers: the House of Representatives and the Senate. The Congress meets in the United States Capitol in Washington, D.C. Both senators and representatives are chosen through direct election, though vacancies in the Senate may be filled by a gubernatorial appointment. Congress has 535 voting members: 435 representatives and 100 senators. The House of Representatives has six non-voting members representing Puerto Rico, American Samoa, Guam, the Northern Mariana Islands, the U.S. Virgin Islands, and the District of Columbia in addition to its 435 voting members. Although they cannot vote in the full house, these members can address the house, sit and vote in congressional committees, and introduce legislation. 
+ 3. (excerpt from article: 'Impeachment in the United States') Impeachment in the United States is the process by which a legislature (usually in the form of the lower house) brings charges against a civil officer of government for crimes alleged to have been committed, analogous to the bringing of an indictment by a grand jury. Impeachment may occur at the federal level or the state level. The federal House of Representatives can impeach federal officials, including the president, and each state's legislature can impeach state officials, including the governor, in accordance with their respective federal or state constitution.
+Options:
+- Yes
+- No",No
+"
+Question: When did ohio become part of the united states?
+Contexts:
+ 1. (excerpt from article: 'Ohio') The state takes its name from the Ohio River, whose name in turn originated from the Seneca word "" ohiyo"", meaning ""good river"", ""great river"" or ""large creek"". Partitioned from the Northwest Territory, Ohio was the 17th state admitted to the Union on March 1, 1803, and the first under the Northwest Ordinance. Ohio is historically known as the ""Buckeye State"" after its Ohio buckeye trees, and Ohioans are also known as ""Buckeyes"".
+ 2. (excerpt from article: 'Ohio') On February 19, 1803, U.S. president Thomas Jefferson signed an act of Congress that approved Ohio's boundaries and constitution. However, Congress had never passed a resolution formally admitting Ohio as the 17th state. The current custom of Congress declaring an official date of statehood did not begin until 1812, with Louisiana's admission as the 18th state. Although no formal resolution of admission was required, when the oversight was discovered in 1953, Ohio congressman George H. Bender introduced a bill in Congress to admit Ohio to the Union retroactive to March 1, 1803, the date on which the Ohio General Assembly first convened. At a special session at the old state capital in Chillicothe, the Ohio state legislature approved a new petition for statehood that was delivered to Washington, D.C., on horseback. On August 7, 1953 (the year of Ohio's 150th anniversary), President Eisenhower signed a congressional joint resolution that officially declared March 1, 1803, the date of Ohio's admittance into the Union.
+Options:
+- Yes
+- No",Yes
+"
+Question: Who wrote the declaration of rights of man and citizen 1789?
+Contexts:
+ 1. (excerpt from article: 'History of the United States Constitution') The United States Constitution has served as the supreme law of the United States since taking effect in 1789. The document was written at the 1787 Philadelphia Convention and was ratified through a series of state conventions held in 1787 and 1788. Since 1789, the Constitution has been amended twenty-seven times; particularly important amendments include the ten amendments of the United States Bill of Rights and the three Reconstruction Amendments.
+ 2. (excerpt from article: 'History of the United States (17761789)') Between 1776 and 1789 thirteen British colonies emerged as a new independent nation The United States of America. Fighting in the American Revolutionary War started between colonial militias and the British Army in 1775. The Second Continental Congress issued the Declaration of Independence on July 4, 1776. Under the leadership of General George Washington, the Continental Army and Navy defeated the British military securing the independence of the thirteen colonies. In 1789, the 13 states replaced the Articles of Confederation of 1777 with the Constitution of the United States of America. With its amendments it remains the fundamental governing law of the United States today.
+Options:
+- Yes
+- No",No
+"
+Question: When was the us department of labor created?
+Contexts:
+ 1. (excerpt from article: 'Social programs in the United States') Prior to the Great Depression the United States had social programs that mostly centered around individual efforts, family efforts, church charities, business workers compensation, life insurance and sick leave programs along with some state tax supported social programs. The misery and poverty of the great depression threatened to overwhelm all these programs. The severe Depression of the 1930s made Federal action necessary, as neither the states and the local communities, businesses and industries, nor private charities had the financial resources to cope with the growing need among the American people. Beginning in 1932, the Federal Government first made loans, then grants, to states to pay for direct relief and work relief. After that, special Federal emergency relief like the Civilian Conservation Corps and other public works programs were started. In 1935, President Franklin D. Roosevelt's administration proposed to Congress federal social relief programs and a federally sponsored retirement program. Congress followed by the passage of the 37 page Social Security Act, signed into law August 14, 1935 and ""effective"" by 1939just as World War II began. This program was expanded several times over the years.
+ 2. (excerpt from article: 'History of the United States (17761789)') On July 2, 1776, the Second Continental Congress, still meeting in Philadelphia, voted unanimously to declare the independence as the ""United States of America"". Two days later, on July 4, Congress adopted the Declaration of Independence. The drafting of the Declaration was the responsibility of a Committee of Five, which included, among others, John Adams and Benjamin Franklin; it was drafted by Thomas Jefferson and revised by the others and the Congress as a whole. It contended that ""all men are created equal"" with ""certain unalienable rights, that among these are life, liberty, and the pursuit of happiness"", and that ""to secure these rights governments are instituted among men, deriving their just powers from the consent of the governed"", as well as listing the main colonial grievances against the crown. July 4 ever since has been celebrated as the birthday of the United States.
+Options:
+- Yes
+- No",No
+"
+Question: When did the us adopt the electoral college?
+Contexts:
+ 1. (excerpt from article: 'United States Electoral College') The Convention approved the Committee's Electoral College proposal, with minor modifications, on September 6, 1787. Delegates from states with smaller populations or limited land area such as Connecticut, New Jersey, and Maryland generally favored the Electoral College with some consideration for states. At the compromise providing for a runoff among the top five candidates, the small states supposed that the House of Representatives with each state delegation casting one vote would decide most elections.
+ 2. (excerpt from article: 'United States Electoral College') Although the United States Constitution refers to ""Electors"" and ""electors"", neither the phrase ""Electoral College"" nor any other name is used to describe the electors collectively. It was not until the early 19th century the name ""Electoral College"" came into general usage as the collective designation for the electors selected to cast votes for president and vice president. The phrase was first written into federal law in 1845 and today the term appears in , in the section heading and in the text as ""college of electors"".
+Options:
+- Yes
+- No",Yes
+"
+Question: When was cricket played first time in india?
+Contexts:
+ 1. (excerpt from article: '2015 Cricket World Cup') Australia and New Zealand last jointly hosted the Cricket World Cup in 1992.
+ 2. (excerpt from article: 'India at the Cricket World Cup') The Indian Squad that won the 2011 World Cup comprised
+Options:
+- Yes
+- No",No
+"
+Question: When was the king james version of the bible first printed?
+Contexts:
+ 1. (excerpt from article: 'First Epistle to the Thessalonians') The First Epistle to the Thessalonians, commonly referred to as First Thessalonians or 1 Thessalonians, is a Pauline epistle of the New Testament of the Christian Bible. The epistle is attributed to Paul the Apostle, and is addressed to the church in Thessalonica, in modern-day Greece. It is likely the first of Paul's letters, probably written by the end of AD 52 (however, some scholars believe the Epistle to Galatians may have been written at an earlier date: AD 48).
+ 2. (excerpt from article: 'Bible') The Old Testament canon entered into Christian use in the Greek Septuagint translations and original books, and their differing lists of texts. In addition to the Septuagint, Christianity subsequently added various writings that would become the New Testament. Somewhat different lists of accepted works continued to develop in antiquity. In the 4th century a series of synods produced a list of texts equal to the 39, 46, 51, or 54-book canon of the Old Testament and to the 27-book canon of the New Testament that would be subsequently used to today, most notably the Synod of Hippo in 393 CE. Also ""c"". 400, Jerome produced a definitive Latin edition of the Bible (see Vulgate), the canon of which, at the insistence of the Pope, was in accord with the earlier Synods. With the benefit of hindsight it can be said that this process effectively set the New Testament canon, although there are examples of other canonical lists in use after this time.
+Options:
+- Yes
+- No",No
+"
+Question: When does series 11 of big bang theory start?
+Contexts:
+ 1. (excerpt from article: 'The Big Bang Theory (season 11)') The eleventh season of the American television sitcom ""The Big Bang Theory"" premiered on CBS on Monday, September 25, 2017. It returned to its regular Thursday time slot on November 2, 2017, after ""Thursday Night Football on CBS"" ended. The season concluded on May 10, 2018.
+ 2. (excerpt from article: 'The Big Bang Theory (season 11)') Like the previous three seasons, the first five episodes aired on Mondays due to CBS' contractual rights to air the ""Thursday Night Football"" games. After ""Thursday Night Football"" ended, the series returned to a Thursday schedule starting on November 2, 2017. Filming for the eleventh season began on August 15, 2017; it was also announced with the taping report that the premiere for the eleventh season would be titled ""The Proposal Proposal"". Before the season premiered, five episodes were filmed from August 15 to September 19, 2017.
+Options:
+- Yes
+- No",Yes
+"
+Question: When did the teenage mutant ninja turtles cartoon come out?
+Contexts:
+ 1. (excerpt from article: 'Teenage Mutant Ninja Turtles (2012 TV series)') Teenage Mutant Ninja Turtles (also known as Tales of the Teenage Mutant Ninja Turtles for its fifth season) is an American 3D rendered computer animated television series based on the fictional superhero team. It aired on Nickelodeon in the United States from September 29, 2012 to November 12, 2017. It was produced by Nickelodeon Animation Studio with CG animation services provided by Technicolor Animation. The series begins with the turtles emerging from their sewer home for the first time. They use their ninjutsu training to fight enemies in present-day New York City.
+ 2. (excerpt from article: 'Teenage Mutant Ninja Turtles (1987 TV series)') Teenage Mutant Ninja Turtles (initially known as Teenage Mutant Hero Turtles in the UK and some European countries due to controversy at the time, and retroactively also known as TMNT 1987 or just TMNT '87) is an American animated television series produced by the studio Murakami-Wolf-Swenson and the French company IDDH. The pilot was shown during the week of December 14, 1987 in syndication as a five-part miniseries (launching on 84 stations and being played twice a day) and the show began its official run on October 1, 1988. Since then the show and franchise has become a worldwide phenomenon. The series featured the Teenage Mutant Ninja Turtles characters, created by Kevin Eastman and Peter Laird. The property was changed considerably from the darker-toned comic, to make it more suitable for children and the family.
+ 3. (excerpt from article: 'Teenage Mutant Ninja Turtles (2003 TV series)') Teenage Mutant Ninja Turtles (also known as Teenage Mutant Ninja Turtles: The Animated Series, TMNT: Teenage Mutant Ninja Turtles or TMNT 2003) is an American animated television series, based on the fictional superhero team of the same name. The series is a first reboot of the Teenage Mutant Ninja Turtles. The series is mainly set in New York City. It first aired on February 8, 2003 and ended on March 27, 2010. The series marked the revival of the Teenage Mutant Ninja Turtles as a Saturday-morning cartoon. It first aired on Fox's Fox Box programming block (later known as 4Kids TV), before moving to The CW's The CW4Kids for its last season.
+Options:
+- Yes
+- No",Yes
+"
+Question: When will spirit riding free season 6 come out?
+Contexts:
+ 1. (excerpt from article: 'A Change Is Gonna Come') In 2017, Greta Van Fleet released a cover of the song on their double EP ""From the Fires"".
+ 2. (excerpt from article: 'Mayans M.C.') In October 2018, it was announced that FX had renewed the series for a second season, which premiered on September 3, 2019. In November 2019, the series was renewed for a third season.
+Options:
+- Yes
+- No",No
+"
+Question: When does the mayans series start on fx?
+Contexts:
+ 1. (excerpt from article: 'Mayans M.C.') On January 5, 2018, FX announced at the annual Television Critics Association's winter press tour that the production had been given a series order for a first season consisting of ten episodes. On June 28, 2018, it was reported that the series would premiere on September 4, 2018. On October 1, 2018, it was announced that FX had renewed the series for a second season which premiered on September 3, 2019. On November 4, 2019, FX renewed the series for a third season.
+ 2. (excerpt from article: 'Mayans M.C.') In October 2018, it was announced that FX had renewed the series for a second season, which premiered on September 3, 2019. In November 2019, the series was renewed for a third season.
+Options:
+- Yes
+- No",Yes
+"
+Question: When did the movie top gun come out?
+Contexts:
+ 1. (excerpt from article: 'Top Gun') The film's premiere was held in New York City on May 12, 1986 with another held in San Diego on May 15.
+ 2. (excerpt from article: 'Top Gun') The film opened in the United States in 1,028 theaters on May 16, 1986.
+Options:
+- Yes
+- No",Yes
