@@ -2,9 +2,6 @@ import os
 from datetime import datetime
 
 import pandas as pd
-from bbh_exemplar import BBHExemplar
-from bbh_prompt import META_SYSTEM_PROMPT, TASK_SOLVER_SYSTEM_PROMPT, TASK_SOLVER_USER_PROMPT
-from bbh_task import BBHTask
 from dotenv import load_dotenv
 
 from prompt_optimizer.chat_model import ChatModel
@@ -13,6 +10,10 @@ from prompt_optimizer.instruction import Instruction
 from prompt_optimizer.load_model import BedrockModel, OpenAIModel, load_model
 from prompt_optimizer.opro import LLMInstructionGenerator, OproOptimizer
 from task_examples.setup_logging import setup_logging
+
+from .bbh_exemplar import BBHExemplar
+from .bbh_prompt import META_SYSTEM_PROMPT, TASK_SOLVER_SYSTEM_PROMPT, TASK_SOLVER_USER_PROMPT
+from .bbh_task import BBHTask
 
 FILE_PATH = os.path.dirname(__file__)
 DATASET_PATH = os.path.join(FILE_PATH, "dataset")
