@@ -3,17 +3,17 @@ from dataclasses import dataclass, field
 from logging import getLogger
 from typing import Callable
 
+from tqdm import tqdm, trange
+
 from prompt_optimizer.chat_model import ChatModel
 from prompt_optimizer.chat_prompt import ChatTemplate
-from tqdm import trange, tqdm
-
 from prompt_optimizer.instruction import (
+    EarlyStoppingStrategy,
     Instruction,
+    InstructionGenerator,
     InstructionScore,
     OptimizedInstructions,
     Task,
-    EarlyStoppingStrategy,
-    InstructionGenerator,
 )
 
 logger = getLogger(__name__)

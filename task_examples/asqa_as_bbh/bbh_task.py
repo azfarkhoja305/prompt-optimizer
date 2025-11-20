@@ -2,7 +2,7 @@ import pandas as pd
 
 from prompt_optimizer.chat_model import ChatModel
 from prompt_optimizer.chat_prompt import ChatTemplate
-from prompt_optimizer.instruction import Task, Instruction, InstructionScore
+from prompt_optimizer.instruction import Instruction, InstructionScore, Task
 
 
 class BBHTask(Task):

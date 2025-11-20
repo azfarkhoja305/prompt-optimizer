@@ -1,4 +1,4 @@
-from prompt_optimizer.instruction import OptimizedInstructions, Instruction, InstructionScore
+from prompt_optimizer.instruction import Instruction, InstructionScore, OptimizedInstructions
 
 
 def test__optimized_instructions__best_validation_instruction() -> None:

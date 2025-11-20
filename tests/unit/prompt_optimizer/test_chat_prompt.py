@@ -1,12 +1,13 @@
+import pytest
+
 from prompt_optimizer.chat_prompt import (
+    AIMessage,
     ChatMessage,
     ChatRole,
+    FStringChatTemplate,
     SystemMessage,
     UserMessage,
-    AIMessage,
-    FStringChatTemplate,
 )
-import pytest
 
 
 @pytest.mark.parametrize("role", ["system", "user", "ai"])

@@ -1,6 +1,7 @@
-from prompt_optimizer.load_model import load_model, OpenAIModel, BedrockModel, StubModel
-from prompt_optimizer.chat_model import UserMessage
 import pytest
+
+from prompt_optimizer.chat_model import UserMessage
+from prompt_optimizer.load_model import BedrockModel, OpenAIModel, StubModel, load_model
 
 
 @pytest.mark.parametrize("model", [OpenAIModel.GPT_41_MINI, BedrockModel.NOVA_LITE, StubModel.COUNT_STUB])

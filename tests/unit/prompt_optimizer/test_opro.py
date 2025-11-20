@@ -4,21 +4,21 @@ import pytest
 
 from prompt_optimizer.chat_model import StubChatModel
 from prompt_optimizer.chat_prompt import FStringChatTemplate
-from prompt_optimizer.opro import (
-    RedundantInstructionStopper,
-    extract_instructions_between_tags,
-    format_scored_instructions,
-    _OproState,
-    validate_missing_placeholders,
-    OproOptimizer,
-    LLMInstructionGenerator,
-)
 from prompt_optimizer.instruction import (
-    InstructionScore,
     Instruction,
+    InstructionGenerator,
+    InstructionScore,
     OptimizedInstructions,
     Task,
-    InstructionGenerator,
+)
+from prompt_optimizer.opro import (
+    LLMInstructionGenerator,
+    OproOptimizer,
+    RedundantInstructionStopper,
+    _OproState,
+    extract_instructions_between_tags,
+    format_scored_instructions,
+    validate_missing_placeholders,
 )
 
 

@@ -15,7 +15,7 @@ install:
 
 format:
 	poetry run ruff format
-	poetry run ruff check --fix
+	poetry run ruff check --select I --fix
 
 test-static:
 	poetry run ruff check

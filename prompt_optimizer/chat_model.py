@@ -2,12 +2,12 @@ from abc import ABC, abstractmethod
 from typing import Sequence
 
 from langchain_core.language_models import BaseChatModel as LangchainChatClient
+from langchain_core.messages import AIMessage as LangchainAIMessage
 from langchain_core.messages import BaseMessage
 from langchain_core.messages import HumanMessage as LangchainHumanMessage
 from langchain_core.messages import SystemMessage as LangchainSystemMessage
-from langchain_core.messages import AIMessage as LangchainAIMessage
 
-from prompt_optimizer.chat_prompt import ChatMessage, AIMessage, SystemMessage, UserMessage
+from prompt_optimizer.chat_prompt import AIMessage, ChatMessage, SystemMessage, UserMessage
 
 
 def chat_messages_to_lc_message(messages: Sequence[ChatMessage]) -> list[BaseMessage]:

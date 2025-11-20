@@ -1,8 +1,7 @@
+import pickle
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
-
 from typing import Protocol
-import pickle
 
 
 @dataclass(frozen=True)

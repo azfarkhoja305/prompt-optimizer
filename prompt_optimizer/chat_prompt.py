@@ -2,7 +2,7 @@ import string
 from abc import ABC, abstractmethod
 from dataclasses import dataclass
 from enum import Enum
-from typing import ClassVar, Sequence, Literal
+from typing import ClassVar, Literal, Sequence
 
 RoleStr = Literal["system", "user", "ai"]
 
