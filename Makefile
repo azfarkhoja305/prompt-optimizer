@@ -1,4 +1,4 @@
-.PHONY: lock install format test-static test-unit
+.PHONY: lock install format test-static test-unit test-integration
 
 TESTS := tests
 SRC := prompt_optimizer
