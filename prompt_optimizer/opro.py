@@ -13,12 +13,11 @@ from prompt_optimizer.instruction import (
     InstructionGenerator,
     InstructionScore,
     OptimizedInstructions,
+    ScoredInstruction,
     Task,
 )
 
 logger = getLogger(__name__)
-
-ScoredInstruction = tuple[Instruction, InstructionScore]
 
 
 def extract_instructions_between_tags(response: str) -> list[str]:

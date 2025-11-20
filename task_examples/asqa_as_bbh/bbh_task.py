@@ -39,7 +39,6 @@ class BBHTask(Task):
 
         responses = self._task_solver_llm.batch_response(batched_messages, max_tokens=5)
 
-        score = sum([label.lower() in pred.lower() for pred, label in zip(responses, targets, strict=True)]) / len(
-            targets
-        )
+        score_sum = sum([label.lower() in pred.lower() for pred, label in zip(responses, targets, strict=True)])
+        score = score_sum / len(targets)
         return InstructionScore(score=score)
