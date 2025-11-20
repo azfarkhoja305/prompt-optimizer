@@ -44,17 +44,11 @@ def bootstrap() -> tuple[LLMInstructionGenerator, BBHTask, BBHTask]:
     )
 
     train_task = create_task(
-        task_llm=task_solver_llm,
-        prompt_template=solver_prompt_template,
-        data_file=TRAIN_FILE,
-        num_samples_to_score=10
+        task_llm=task_solver_llm, prompt_template=solver_prompt_template, data_file=TRAIN_FILE, num_samples_to_score=10
     )
 
     valid_task = create_task(
-        task_llm=task_solver_llm,
-        prompt_template=solver_prompt_template,
-        data_file=VALID_FILE,
-        num_samples_to_score=10
+        task_llm=task_solver_llm, prompt_template=solver_prompt_template, data_file=VALID_FILE, num_samples_to_score=10
     )
 
     return llm_instruction_generator, train_task, valid_task

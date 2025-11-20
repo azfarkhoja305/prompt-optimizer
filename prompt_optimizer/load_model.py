@@ -57,7 +57,7 @@ BEDROCK_MODELS_PROPERTY_MAPPINGS = {
 }
 
 
-def load_openai_model(model: OpenAIModel) -> LangchainChatModel:
+def load_azure_openai_model(model: OpenAIModel) -> LangchainChatModel:
     api_key = os.environ["AZURE_OPENAI_API_KEY"]
     endpoint = os.environ["AZURE_OPENAI_ENDPOINT"]
     api_version = os.environ["AZURE_OPENAI_API_VERSION"]
@@ -76,10 +76,10 @@ def load_openai_model(model: OpenAIModel) -> LangchainChatModel:
 
 def load_bedrock_model(model: BedrockModel) -> LangchainChatModel:
     model_property = BEDROCK_MODELS_PROPERTY_MAPPINGS[model]
-    inference_profile = os.environ[str.upper(model_property.model_id)]
+    inference_profile = os.environ.get(str.upper(model_property.model_id))
     bedrock_client = ChatBedrockConverse(
         client=boto3.client("bedrock-runtime"),
-        model=inference_profile,
+        model=inference_profile or model_property.model_id,
         base_model=model_property.model_name,
         provider=model_property.model_provider,
     )
@@ -93,7 +93,7 @@ def load_stub_model(model: StubModel) -> ChatModel:
 
 def load_model(model: ModelEnum) -> ChatModel:
     if isinstance(model, OpenAIModel):
-        return load_openai_model(model)
+        return load_azure_openai_model(model)
     elif isinstance(model, BedrockModel):
         return load_bedrock_model(model)
     elif isinstance(model, StubModel):
